@@ -4,7 +4,7 @@
 	<title><![CDATA[Code Journey]]></title>
 	<link href="http://wensontsai.github.io/atom.xml" rel="self"/>
 	<link href="http://wensontsai.github.io/"/>
-	<updated>2013-09-17T13:36:38-04:00</updated>
+	<updated>2013-09-17T13:48:25-04:00</updated>
 	<id>http://wensontsai.github.io/</id>
 	<author>
 		<name><![CDATA[Wenson Tsai]]></name>
@@ -28,10 +28,14 @@
 			]]>
 			<![CDATA[<p>The morning was spent shaking off nerves with laughs, dark jokes, and dancing as we threw ourselves in a course of improv.  It was a great way to get out of our shells, look dumb in front of a room of strangers/new friends, and get us in the right mindset to be team-players.</p>
 
-<p>Lessons to take away:
-1.  <strong>Yes, AND&hellip;</strong>     # always accept what your fellow player gives you, AND try to give them something back that they can work with, a little gift.  &ldquo;No&rdquo;/questions take the energy somewhere else unproductive with the flow
-2.  <strong>Always show up</strong>     # no matter if you are scared, unprepared or what, just show up and create in the moment from there.  That&rsquo;s the most important.
-3.  <strong>Help them out</strong>      # when you see a fellow player in trouble, jump in and save them.  Don&rsquo;t let them die alone out there!</p>
+<p>Lessons to take away:</p>
+
+<ol>
+<li><p><strong>Yes, AND&hellip;</strong>     # always accept what your fellow player gives you, AND try to give them something back that they can work with, a little gift.  &ldquo;No&rdquo;/questions take the energy somewhere else unproductive with the flow</p></li>
+<li><p><strong>Always show up</strong>     # no matter if you are scared, unprepared or what, just show up and create in the moment from there.  That&rsquo;s the most important.</p></li>
+<li><p><strong>Help them out</strong>      # when you see a fellow player in trouble, jump in and save them.  Don&rsquo;t let them die alone out there!</p></li>
+</ol>
+
 
 <p>The afternoon was just as invigorating as we jumped straight into setting up our Fullstack profile pages off a minimal template.  It was HTML/CSS in action, as well as a challenge in vision &ndash; to create a stylesheet, requires understanding how to work within the defaults/habits of HTML/CSS.  It was a leap into madness with divs, nested divs, floats, and the beauty hack of the &ldquo;clearfix.&rdquo;  This was all after setting up Github and learning how to commits as well.</p>
 
