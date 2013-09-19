@@ -1,0 +1,125 @@
+
+<!doctype html>
+<!-- START OF _layouts/default.html -->
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" >
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<meta content="" name="description">
+		<meta content="Code Journey" name="author">
+		
+		<title>I will be better today &mdash; Code Journey</title>
+		
+		<!-- Styles -->
+		<link href="/stylesheets/main.css" rel="stylesheet">
+		
+		<!-- Google webfonts -->
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cousine">
+		
+		<!-- jQuery and plugins -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script src="/js/jquery.zclip.min.js"></script>
+		
+		<!-- Syntax highlighter -->
+		<link href="/stylesheets/prettify-hemisu.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="/js/prettify.js"></script>
+		
+		<!--<link href="http://feeds.feedburner.com/turkeltaub" rel="alternate" title="Code Journey" type="application/rss+xml" />-->
+		
+	</head>
+	<body onload="prettyPrint()">
+	
+		<div class="wrap">
+	
+			<header>
+				<div class="title">Code Journey</div>
+				
+				<div class="navi">
+					<ul>
+						<li><a href="/">Blog</a></li>
+						<li><a href="/blog/archives">Archives</a></li>
+					<ul>
+				</div> <!-- // .navi -->
+			</header>
+		
+				<!-- START OF _layouts/post.html -->
+
+<!-- START OF _includes/article.html -->
+<article>
+	<header>
+		<h1><a href="/blog/2013/09/18/day-number-3/">I will be better today</a></h1>
+		<time>18 September 2013</time>
+	</header>
+		<div class="content">
+			<p>I said it over and over on the train.  No little programs will destroy me.  So, I may not have a deep technical background, so, I may not have much experience with this.  So, I may not have finished the pre-work yet, and class has already started (believe you me, I wish I&rsquo;d gotten through it all with time to spare, but when doors open, they blow open.  your job is to step through).  Pig-latin is not the end of me.</p>
+
+<p>And so, off to the races.  Unbelievable, it&rsquo;s only day 3.  I&rsquo;m a native New Yorker now.  And a Wall St. banker.  Complaining about long lunch lines at the 1pm rush, talking with Yonkers accents.  BONNKAAZZZ &ndash; like the guy in the elevator yesterday, who Jorge unfortunately said &ldquo;hi&rdquo; to out of kindness, and in a small 3x5 box, moving upwards at a rate of 10ft/hr, he complained about how the microphone on his smashed phone was a mess, and he had to use headphones in order to talk &ndash; in his words, this, &ldquo;a living hell.&rdquo;  New York&rsquo;s a different world.  Talking with headphones is a severe deal breaker, take note, kids.</p>
+
+<p>Solutions were given today for the Testfirst.org problems yesterday.  After yesterday&rsquo;s owning, I was feeling discouraged.  Things got a lot better after I managed to solve a few problems by my own, and now the guy next to me was looking at my answers to get some green test throughs.  David explained the &lsquo;yield&rsquo; method in greater detail, after dropping the science on answers, and I felt much, much better.  After class tutorial small group study sessions?  Yes, please.  As many as you got.  I&rsquo;ll be there.</p>
+
+<p>We got a new project to work on that will take us the rest of the week, a few hours before go-home.  I have not even touched the haiku problem yet from yesterday.  I want to crack at it.  And there&rsquo;s so much pre-work I still want to do, and I want to do the testfirst problems over as well.  So much to do, not so much time.</p>
+
+<p>I have fallen into the NYC pace of non-stop, much like a small child leaping backwards into a mountain of laundry, on a perched but soft bed.</p>
+
+		</div>
+	<footer>
+		
+
+
+		
+
+
+
+
+	
+	
+	</footer>
+	
+</article>
+<!-- END OF _includes/article.html -->
+
+
+<!-- END OF _/layouts/post.html -->
+
+		
+			<footer>
+				Copyright &copy; 2013
+
+	Wenson Tsai
+
+
+			</footer>
+			
+		</div> <!-- // .wrap -->
+	</body>
+	<script>
+		$(document).ready(function() {
+			// Make images center
+			$('p:has(img)').css('text-align', 'center');
+			
+			// Add the image's title attribute as a caption
+			$('p:has(img)').append(function () {
+				return '<div class="caption">' + $('img', this).attr('title') + '</div>';
+			});
+			
+			// Prettify code
+			$('code').addClass('prettyprint');
+			$('pre code').addClass('linenums');
+			
+			// Copy to clipboard with button
+			$('pre:has(code)').prepend(function(){
+				return '<div class="clip-btn">copy to clipboard</div>';
+			});
+			$('.clip-btn').zclip({
+				path:'/js/ZeroClipboard.swf',
+				copy: $(this).next('code').text(),
+				afterCopy: function(){
+					$(this).replaceWith('<div class="clip-btn">copied!');
+					}
+			});
+		});
+	</script>
+</html>
+<!-- END OF _layouts/default.html -->
