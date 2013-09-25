@@ -4,7 +4,7 @@
 	<title><![CDATA[Code Journey]]></title>
 	<link href="http://wensontsai.github.io/atom.xml" rel="self"/>
 	<link href="http://wensontsai.github.io/"/>
-	<updated>2013-09-24T22:03:29-04:00</updated>
+	<updated>2013-09-25T09:02:46-04:00</updated>
 	<id>http://wensontsai.github.io/</id>
 	<author>
 		<name><![CDATA[Wenson Tsai]]></name>
@@ -12,6 +12,24 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[new-page-url]]></title>
+		
+		<link href="http://wensontsai.github.io/blog/2013/09/25/new-page-url/"/>
+		<updated>2013-09-25T09:02:00-04:00</updated>
+		<id>http://wensontsai.github.io/blog/2013/09/25/new-page-url</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -26,7 +44,7 @@
 					<p></p>
 				
 			]]>
-			<![CDATA[<p>Rough.  That&rsquo;s all I can really say.  The going is rough.  It&rsquo;s full-on Rocky over here without the benefit of a Netflix summary telling you everything&rsquo;s gonna wrap up okay at the end of 1:45hrs run-time.  Rough.</p>
+			<![CDATA[<p>Rough.  That&rsquo;s all I can really say.  The going is rough.  It&rsquo;s full-on Rocky over here without the benefit of a Netflix summary telling you everything&rsquo;s gonna wrap up okay at the end of 1:45hrs run-time.  Driving rough.</p>
 
 <p>We finished up the Rspec blackjack testing/coding endeavor today, didn&rsquo;t gain too much more ground on getting greens and drowning red failure statements.  Even after all was explained and done, I still felt drowny and heavy all up in the chest.  We then moved on to learning SQL.  Oh syntax, you are the worst ex-girlfriend of them all, I swear.</p>
 
@@ -38,7 +56,7 @@
 
 <p>As people came and went, another group formed, and these two other students began talking about their dedication to working on personal projects.  Unexpected inspiration again.  I felt electrified to hear of them wishing this place had a shower so they could work around the clock to get stuff done.  We are already 10% of the way through the program, one said.  He&rsquo;s right.  Better get on it.</p>
 
-<p>I will come up with a passion project of my own to spearhead the learning and networking and NASA spin-off transfer technologies and make me portfolio pretty and give me lots of fire when I talk about things I care about and get me toes and fingers all wet and sticky again in the caudron of life and creativity and imagination and possibilities and yes.  I think there will be a capstone project before we finish anyways, and it will be fantastic to have a vehicle to push everything forth as I leave gravity behind and burn, burn, burn it up through the atmosphere.</p>
+<p>I will come up with a passion project of my own to spearhead the learning and networking and NASA fall-out transfer technologies and make me portfolio pretty and give me lots of fire when I talk about things I care about, get the toes and fingers all wet and sticky again in the cauldron of life and creativity and imagination and possibilities and yes.  I think there will be a capstone project before we finish anyways, and it will be fantastic to have a vehicle to push everything forth as I leave gravity behind and burn, burn, burn it up through the atmosphere.</p>
 
 <p>The last few short and sudden hours have reminded me that eyes keep focused solely on the road, it miss the scenery.  The unseen benefits of a road trip are many.</p>
 ]]>
