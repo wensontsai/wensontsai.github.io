@@ -1,0 +1,131 @@
+
+<!doctype html>
+<!-- START OF _layouts/default.html -->
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" >
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<meta content="becoming a developer with Fullstack Academy in New York City" name="description">
+		<meta content="Code Journey" name="author">
+		
+		<title>inspiration transfer &mdash; Code Journey</title>
+		
+		<!-- Styles -->
+		<link href="/stylesheets/main.css" rel="stylesheet">
+		
+		<!-- Google webfonts -->
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cousine">
+		
+		<!-- jQuery and plugins -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script src="/js/jquery.zclip.min.js"></script>
+		
+		<!-- Syntax highlighter -->
+		<link href="/stylesheets/prettify-hemisu.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="/js/prettify.js"></script>
+		
+		<!--<link href="http://feeds.feedburner.com/turkeltaub" rel="alternate" title="Code Journey" type="application/rss+xml" />-->
+		
+	</head>
+	<body onload="prettyPrint()">
+	
+		<div class="wrap">
+	
+			<header>
+				<div class="title">Code Journey</div>
+				
+				<div class="navi">
+					<ul>
+						<li><a href="/">Blog</a></li>
+						<li><a href="/blog/archives">Archives</a></li>
+					<ul>
+				</div> <!-- // .navi -->
+			</header>
+		
+				<!-- START OF _layouts/post.html -->
+
+<!-- START OF _includes/article.html -->
+<article>
+	<header>
+		<h1><a href="/blog/2013/09/24/day-number-7/">inspiration transfer</a></h1>
+		<time>24 September 2013</time>
+	</header>
+		<div class="content">
+			<p>Rough.  That&rsquo;s all I can really say.  The going is rough.  It&rsquo;s full-on Rocky over here without the benefit of a Netflix summary telling you everything&rsquo;s gonna wrap up okay at the end of 1:45hrs run-time.  Rough.</p>
+
+<p>We finished up the Rspec blackjack testing/coding endeavor today, didn&rsquo;t gain too much more ground on getting greens and drowning red failure statements.  Even after all was explained and done, I still felt drowny and heavy all up in the chest.  We then moved on to learning SQL.  Oh syntax, you are the worst ex-girlfriend of them all, I swear.</p>
+
+<p>The crotch punches continued deep into dusk, with little to no tea-refill breaks (we were out of water tanks for the dispenser so I put some green tea in some seltzer water.  a bubbly gassy fail.) the abuse remained a flurry until our Fullstack Dinner ++ today where we were treated to a delicious and balanced meal from Digg Inn, loved ones and friends joined us, mostly I think, so they could lock in a mental/emotional picture for imagining where their significant other/loved ones are when they don&rsquo;t ever see them in person again until December.  It&rsquo;s busy up in here.</p>
+
+<p>I was so tired and defeated, but soon summoned to life.  The two girls in the class beckoned me over to sit between them.  The other Taiwanese-American guy in the class mentored me about my life.  Apparently he was a movie producer on the side, all the while having his hands in the tech VC world.  Very interesting, and unexpected.  I spilled a bit of my past lives, and there we were in the middle of a long table, talking shop in that weird snooty entertainment industry way, making jokes about crafty and trail mix.  I always did love being on set.</p>
+
+<p>He buckled down tough-love style, but I was listening.  His message? to focus down what exactly I wanted to get out of this experience &ndash; also, what I wanted to get out of the life I had remaining.  This intensity was really happening at the same table we ate bagels and cream cheese every morning, except with people all around watching the spectacle, but they didn&rsquo;t really exist anyway.  He gave me a lot to think about.</p>
+
+<p>As people came and went, another group formed, and these two other students began talking about their dedication to working on personal projects.  Unexpected inspiration again.  I felt electrified to hear of them wishing this place had a shower so they could work around the clock to get stuff done.  We are already 10% of the way through the program, one said.  He&rsquo;s right.  Better get on it.</p>
+
+<p>I will come up with a passion project of my own to spearhead the learning and networking and NASA spin-off transfer technologies and make me portfolio pretty and give me lots of fire when I talk about things I care about and get me toes and fingers all wet and sticky again in the caudron of life and creativity and imagination and possibilities and yes.  I think there will be a capstone project before we finish anyways, and it will be fantastic to have a vehicle to push everything forth as I leave gravity behind and burn, burn, burn it up through the atmosphere.</p>
+
+<p>The last few short and sudden hours have reminded me that eyes keep focused solely on the road, it miss the scenery.  The unseen benefits of a road trip are many.</p>
+
+		</div>
+	<footer>
+		
+
+
+		
+
+
+
+
+	
+	
+	</footer>
+	
+</article>
+<!-- END OF _includes/article.html -->
+
+
+<!-- END OF _/layouts/post.html -->
+
+		
+			<footer>
+				Copyright &copy; 2013
+
+	Wenson Tsai
+
+
+			</footer>
+			
+		</div> <!-- // .wrap -->
+	</body>
+	<script>
+		$(document).ready(function() {
+			// Make images center
+			$('p:has(img)').css('text-align', 'center');
+			
+			// Add the image's title attribute as a caption
+			$('p:has(img)').append(function () {
+				return '<div class="caption">' + $('img', this).attr('title') + '</div>';
+			});
+			
+			// Prettify code
+			$('code').addClass('prettyprint');
+			$('pre code').addClass('linenums');
+			
+			// Copy to clipboard with button
+			$('pre:has(code)').prepend(function(){
+				return '<div class="clip-btn">copy to clipboard</div>';
+			});
+			$('.clip-btn').zclip({
+				path:'/js/ZeroClipboard.swf',
+				copy: $(this).next('code').text(),
+				afterCopy: function(){
+					$(this).replaceWith('<div class="clip-btn">copied!');
+					}
+			});
+		});
+	</script>
+</html>
+<!-- END OF _layouts/default.html -->
