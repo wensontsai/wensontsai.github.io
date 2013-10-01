@@ -4,7 +4,7 @@
 	<title><![CDATA[Code Journey]]></title>
 	<link href="http://wensontsai.github.io/atom.xml" rel="self"/>
 	<link href="http://wensontsai.github.io/"/>
-	<updated>2013-09-28T16:24:02-04:00</updated>
+	<updated>2013-10-01T00:01:00-04:00</updated>
 	<id>http://wensontsai.github.io/</id>
 	<author>
 		<name><![CDATA[Wenson Tsai]]></name>
@@ -12,6 +12,28 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[munday]]></title>
+		
+		<link href="http://wensontsai.github.io/blog/2013/09/30/day-number-11/"/>
+		<updated>2013-09-30T23:51:00-04:00</updated>
+		<id>http://wensontsai.github.io/blog/2013/09/30/day-number-11</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>It&rsquo;s a bit of a toss, between life and the immersive.  No one said it would be easy.  No one said this.  And, certainly, no one promised that weekends would be rejuvenating.</p>
+
+<p>Today&rsquo;s work was comprehendable enough.  We got to know the mystical black magic that is Active Record (AR) in Ruby on Rails.  It speaks a sort of yoda backwards SQL, and it does a bunch of weird things behind your back (well, not super weird, but certainly AR has a bit of the flair for the theatrical), oh, and did I mention, sir/madaam AR cares about your use of singles vs plural, even when it&rsquo;s only referencing your class objects as such for its own entertainment?  To not do so, would be uncivilized.</p>
+
+<p>Oh, I&rsquo;m coming apart on a munday funday.  The week is a young-day.  Better keep strong.  Today, my pair-partner came down with a sickness, and now family-sized dispensers of Purell are on every desk in the house.  Keep the energy up, keep the health meters up, the mana and the mojo.  Rest, all you have to do is rest, and it&rsquo;ll be all right.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
