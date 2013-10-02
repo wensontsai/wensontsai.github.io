@@ -4,7 +4,7 @@
 	<title><![CDATA[Code Journey]]></title>
 	<link href="http://wensontsai.github.io/atom.xml" rel="self"/>
 	<link href="http://wensontsai.github.io/"/>
-	<updated>2013-10-01T00:02:48-04:00</updated>
+	<updated>2013-10-01T23:13:57-04:00</updated>
 	<id>http://wensontsai.github.io/</id>
 	<author>
 		<name><![CDATA[Wenson Tsai]]></name>
@@ -12,6 +12,37 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[day n nite]]></title>
+		
+		<link href="http://wensontsai.github.io/blog/2013/10/01/day-number-12/"/>
+		<updated>2013-10-01T23:00:00-04:00</updated>
+		<id>http://wensontsai.github.io/blog/2013/10/01/day-number-12</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>Today, we had our 3rd Fullstack Dinner, and it was pizza.  Grandma&rsquo;s pizza, Grandpa&rsquo;s pizza, White pizza, mushroom pizza (which no one touched inexplicably) &ndash; the pizza game be diversified.  The day was one with a good flow &ndash; we first learned about the internets.  The internets is busy, and it keeps passing stuff back and forth like basketball drills to keep us seeing things and un-revolty.</p>
+
+<iframe src="http://wensontsai.github.io//player.vimeo.com/video/14570497" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<p> <p><a href="http://vimeo.com/14570497">Packet Flight: RickRoll @ 12X</a> from <a href="http://vimeo.com/carlosb">Carlos Bueno</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
+
+<p>The US government was down today (effing ridiculous), but hey, it&rsquo;s fine when you can watch people do things on Brobible.com (mind sanitize).</p>
+
+<p>Then we moved on to designing this multi-room portal site pulling in Sinatra, Rails(Active Record), SQL, and HTML/CSS which was pretty cool, cause it lets people come onto your site, and then name things.  Of course, the first room I named was the toilet, because every good space including a wormhole, needs a toilet (keep it hyperspace clean, son!).  My butt cheeks be allergic to anything that&rsquo;s not gold even when I&rsquo;m time/space/dimensional/contiuum traveling.</p>
+
+<p><img src="http://maison.trouvetout.ca/wp-content/uploads/2012/04/hong-kon-golden-toilet1.jpg" title="golden toilet" alt="golden toilet" /></p>
+
+<p>Where is the golden-spouted butt washer with adjustable pressure/temperature??  Cannibals.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
