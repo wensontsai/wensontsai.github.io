@@ -1,0 +1,137 @@
+
+<!doctype html>
+<!-- START OF _layouts/default.html -->
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" >
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<meta content="becoming a developer with Fullstack Academy in New York City" name="description">
+		<meta content="Code Journey" name="author">
+		
+		<title>fancy seeing u here &mdash; Code Journey</title>
+		
+		<!-- Styles -->
+		<link href="/stylesheets/main.css" rel="stylesheet">
+		
+		<!-- Google webfonts -->
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cousine">
+		
+		<!-- jQuery and plugins -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script src="/js/jquery.zclip.min.js"></script>
+		
+		<!-- Syntax highlighter -->
+		<link href="/stylesheets/prettify-hemisu.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="/js/prettify.js"></script>
+		
+		<!--<link href="http://feeds.feedburner.com/turkeltaub" rel="alternate" title="Code Journey" type="application/rss+xml" />-->
+		
+	</head>
+	<body onload="prettyPrint()">
+	
+		<div class="wrap">
+	
+			<header>
+				<div class="title">Code Journey</div>
+				
+				<div class="navi">
+					<ul>
+						<li><a href="/">Blog</a></li>
+						<li><a href="/blog/archives">Archives</a></li>
+					<ul>
+				</div> <!-- // .navi -->
+			</header>
+		
+				<!-- START OF _layouts/post.html -->
+
+<!-- START OF _includes/article.html -->
+<article>
+	<header>
+		<h1><a href="/blog/2013/10/02/day-number-13/">fancy seeing u here</a></h1>
+		<time>02 October 2013</time>
+	</header>
+		<div class="content">
+			<p>The Active Record/Sinatra/SQLite collabo.. wait, did we start it yesterday or fresh today?  Who knows anymore.  I just had to check my own blog, to write my own blog.  Head in a fog, log, bog, smog, brog.  Today was fun.  We made weird worlds, and I put chips and salsa everywhere, and David put guac, and Nimit hi-jacked my macbook like a Somali pirate and I&rsquo;m that new Tom Hanks movie where he grows a beard and keeps order over his seamen.  Surely persistence and the drive to discover is how you learn things (so that&rsquo;s how you get good at things!).</p>
+
+<p>Week 3 of the program, rolling along &ndash; thinking that we are already 25% of the way through the course, puts the fear in me like a lake of fire and gnashing of teeth next to the devil could never instill.  YOU ARE ALREADY &frac14; OF THE WAY THROUGH WITH YOUR WEB DEV IMMERSIVE SOON YOU WILL TAKE THE SKILLS YOU HAVE ACQUIRED FIND A JOB AND START WORKING WITH SAID SKILLS ON THE DAILY FOR MONEY.  This statement, is so fucking scary, it could be used in your favor to convert me to any religion/religions/causes/cults/sex-cults/porno-cage-dungeons of your heart&rsquo;s desire.  Yes, I will do porn if you just keep yelling that sentence at me.  I&rsquo;m so scared, yes, I&rsquo;m ready to shoot!!</p>
+
+<p>In less scary news, or actually, rather debatable, check out what I made at school today mama!</p>
+
+<p><a href="https://dry-tundra-6501.herokuapp.com/person/new">https://dry-tundra-6501.herokuapp.com/person/new</a></p>
+
+<p>Come on in, have some chips n salsa in the foyer, kick up a shoe or two, pee in my double golden toilets (made of real gold, not that plated stuff), take a bounce or three in my double moon bounces, and check out some real meat in the dry-age-room/muscle dungeon.  But only if you dare.  Don&rsquo;t eat spaghetti squash in front of your keyboard while you explore these wormholes, soldier.  Also, go ahead, put in your name (I&rsquo;ll never see it), create some rooms to your heart&rsquo;s content (I will see these), and make some connections between those rooms to keep Wenson Stack World spicier than a mala pepper gone down the wrong throat path.</p>
+
+<p>Don&rsquo;t be shy.  Here, to help things along, I&rsquo;ll tell/show you about myself.</p>
+
+<p><img src="http://mayaday.files.wordpress.com/2010/03/funny-asian-face.jpg" title="JACKSON FROLIC" alt="Jackson Frolic" /></p>
+
+<p>name:  Jackson Frolic
+description:  gum drops and jelly breams!</p>
+
+<ul>
+<li>breams are a type of fish like a snapper.  i kno how 2 type ohkay</li>
+</ul>
+
+
+		</div>
+	<footer>
+		
+
+
+		
+
+
+
+
+	
+	
+	</footer>
+	
+</article>
+<!-- END OF _includes/article.html -->
+
+
+<!-- END OF _/layouts/post.html -->
+
+		
+			<footer>
+				Copyright &copy; 2013
+
+	Wenson Tsai
+
+
+			</footer>
+			
+		</div> <!-- // .wrap -->
+	</body>
+	<script>
+		$(document).ready(function() {
+			// Make images center
+			$('p:has(img)').css('text-align', 'center');
+			
+			// Add the image's title attribute as a caption
+			$('p:has(img)').append(function () {
+				return '<div class="caption">' + $('img', this).attr('title') + '</div>';
+			});
+			
+			// Prettify code
+			$('code').addClass('prettyprint');
+			$('pre code').addClass('linenums');
+			
+			// Copy to clipboard with button
+			$('pre:has(code)').prepend(function(){
+				return '<div class="clip-btn">copy to clipboard</div>';
+			});
+			$('.clip-btn').zclip({
+				path:'/js/ZeroClipboard.swf',
+				copy: $(this).next('code').text(),
+				afterCopy: function(){
+					$(this).replaceWith('<div class="clip-btn">copied!');
+					}
+			});
+		});
+	</script>
+</html>
+<!-- END OF _layouts/default.html -->
