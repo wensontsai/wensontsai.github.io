@@ -4,7 +4,7 @@
 	<title><![CDATA[Code Journey]]></title>
 	<link href="http://wensontsai.github.io/atom.xml" rel="self"/>
 	<link href="http://wensontsai.github.io/"/>
-	<updated>2013-10-02T23:11:04-04:00</updated>
+	<updated>2013-10-02T23:13:35-04:00</updated>
 	<id>http://wensontsai.github.io/</id>
 	<author>
 		<name><![CDATA[Wenson Tsai]]></name>
@@ -40,13 +40,10 @@
 
 <p><img src="http://mayaday.files.wordpress.com/2010/03/funny-asian-face.jpg" title="JACKSON FROLIC" alt="Jackson Frolic" /></p>
 
-<p>name:  Jackson Frolic
-description:  gum drops and jelly breams!</p>
+<p>name:  Jackson Frolic <br>
+description:  gum drops and jelly breams!<br><br></p>
 
-<ul>
-<li>breams are a type of fish like a snapper.  i kno how 2 type ohkay</li>
-</ul>
-
+<p>** breams are a type of fish like a snapper.  i kno how 2 type ohkay</p>
 ]]>
 		</content>
 	</entry>
