@@ -1,0 +1,125 @@
+
+<!doctype html>
+<!-- START OF _layouts/default.html -->
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" >
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<meta content="becoming a developer with Fullstack Academy in New York City" name="description">
+		<meta content="Code Journey" name="author">
+		
+		<title>sabbath &mdash; Code Journey</title>
+		
+		<!-- Styles -->
+		<link href="/stylesheets/main.css" rel="stylesheet">
+		
+		<!-- Google webfonts -->
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cousine">
+		
+		<!-- jQuery and plugins -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script src="/js/jquery.zclip.min.js"></script>
+		
+		<!-- Syntax highlighter -->
+		<link href="/stylesheets/prettify-hemisu.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="/js/prettify.js"></script>
+		
+		<!--<link href="http://feeds.feedburner.com/turkeltaub" rel="alternate" title="Code Journey" type="application/rss+xml" />-->
+		
+	</head>
+	<body onload="prettyPrint()">
+	
+		<div class="wrap">
+	
+			<header>
+				<div class="title">Code Journey</div>
+				
+				<div class="navi">
+					<ul>
+						<li><a href="/">Blog</a></li>
+						<li><a href="/blog/archives">Archives</a></li>
+					<ul>
+				</div> <!-- // .navi -->
+			</header>
+		
+				<!-- START OF _layouts/post.html -->
+
+<!-- START OF _includes/article.html -->
+<article>
+	<header>
+		<h1><a href="/blog/2013/10/03/day-number-14/">sabbath</a></h1>
+		<time>03 October 2013</time>
+	</header>
+		<div class="content">
+			<p>With the coming autumn/winter season, people are flipping out about colds/viruses/flus and the such, hand-sanitizer companies are padding their expense accounts in hand-sanitizer company-like ways like a company scavenger hunt in a landfill followed by a company picnic.  Free hand-sanitizer for all involved including family/friends, of course!  In my mind, companies and employees of said companies all joyously and single-mindedly pursue the seamless integration of their product into their lives &ndash; hence a hand-sanitizer company employee just CAN&rsquo;T WAIT to test the extent of hand-sanitizer power in their lives and really stick it to those germs!  Following this example, I will save my exposition on the valor and robustness of condom-company employees for another day when morale is truly low.  You simply won&rsquo;t believe what a couple hundredths of a millimeter of latex will embolden an otherwise sane human being to attempt.  For the company!</p>
+
+<p>Sickness, illness, colds.  I see at them as life&rsquo;s breaks.  If your body can&rsquo;t fight off a common cold, it&rsquo;s probably because you are overextended.  We all work so hard, sometimes something outside of yourself mercifully taps us on the shoulder, and puts the brakes on for us.  Colds, even the flu, they are more opportunities for rest than outside invaders that must be defeated.  The body is strong and knows what to do.  Trust it.  Rest it.</p>
+
+<p>Today, started off as another high-aspiration day as we always do at Fullstack Academy, but for some reason we caught a cold.  Well, the campus did &ndash; the internet went out.  For a tech house, wifi is the air in your nostrils.  Time to blow the nose, sip some soda, watch TV and sleep &ndash; we took it easy today.  I think once all of our internal meth-rock-chewing slave-drivers surrendered to the idea that we were not getting anything done until the internet was back on, we were able to let go of the pace; some of us even left the building, went outside, took a stroll, overlooked the water, stared off into nothing, lied down on the boardwalk.</p>
+
+<p>Of course, it was easy to figure exactly when the internet was back on &ndash; silence, heads returned downward at a slight 78degrees &ndash; plugged into the machine, dropped out.</p>
+
+<p>We still managed to cover Ruby regular expressions, and discuss web crawling.  Tomorrow we construct scrapers, I am excited about these little script-robots we&rsquo;ll be getting a handle on.  The read-ups sound ever-so slightly suspect though &ndash; this is where hackers(as in trying to make code work) and hackers(as in breaking into code that&rsquo;s not theirs) begin to get some bridges.  I like it.</p>
+
+		</div>
+	<footer>
+		
+
+
+		
+
+
+
+
+	
+	
+	</footer>
+	
+</article>
+<!-- END OF _includes/article.html -->
+
+
+<!-- END OF _/layouts/post.html -->
+
+		
+			<footer>
+				Copyright &copy; 2013
+
+	Wenson Tsai
+
+
+			</footer>
+			
+		</div> <!-- // .wrap -->
+	</body>
+	<script>
+		$(document).ready(function() {
+			// Make images center
+			$('p:has(img)').css('text-align', 'center');
+			
+			// Add the image's title attribute as a caption
+			$('p:has(img)').append(function () {
+				return '<div class="caption">' + $('img', this).attr('title') + '</div>';
+			});
+			
+			// Prettify code
+			$('code').addClass('prettyprint');
+			$('pre code').addClass('linenums');
+			
+			// Copy to clipboard with button
+			$('pre:has(code)').prepend(function(){
+				return '<div class="clip-btn">copy to clipboard</div>';
+			});
+			$('.clip-btn').zclip({
+				path:'/js/ZeroClipboard.swf',
+				copy: $(this).next('code').text(),
+				afterCopy: function(){
+					$(this).replaceWith('<div class="clip-btn">copied!');
+					}
+			});
+		});
+	</script>
+</html>
+<!-- END OF _layouts/default.html -->
