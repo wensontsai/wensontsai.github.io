@@ -4,7 +4,7 @@
 	<title><![CDATA[Code Journey]]></title>
 	<link href="http://wensontsai.github.io/atom.xml" rel="self"/>
 	<link href="http://wensontsai.github.io/"/>
-	<updated>2013-10-05T18:08:24-04:00</updated>
+	<updated>2013-10-08T01:19:14-04:00</updated>
 	<id>http://wensontsai.github.io/</id>
 	<author>
 		<name><![CDATA[Wenson Tsai]]></name>
@@ -12,6 +12,28 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[pieces]]></title>
+		
+		<link href="http://wensontsai.github.io/blog/2013/10/08/day-number-16/"/>
+		<updated>2013-10-08T01:04:00-04:00</updated>
+		<id>http://wensontsai.github.io/blog/2013/10/08/day-number-16</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>After a weekend, that didn&rsquo;t feel much like a weekend because it was spent catching up on pre-work and learning about Rails, Monday rolled on forth with more Rails.  I was kinda glad I stayed in and brushed up, and by brushed up, I mean learned for the first time, Rails, because we dove right into it today.  Sinatra &ndash; out.  Rails in.  Rails is crazy cause with 2 command line returns, there&rsquo;s this mass of folders and controllers, routes, models, html/css that&rsquo;s just blegghgh right there.  Kinda like how this morning I awoke to my friend&rsquo;s cat wailing and making caulking-gun sounds.  I open the door, and there it was.  All this vomit everywhere.  Hello, Ruby on Rails generate scaffold function!</p>
+
+<p>Still working out the kinks, the connections, and my feelings towards this whole framework.  I went to a childhood friend&rsquo;s place for dinner and he asked me, so what does Rails do when you build a website?  Good question.  I just told him it&rsquo;s like some sort of glue that seeps in and makes things easier between html and SQL, and everything&hellip; um, yeah.  That&rsquo;s Rails!  Get&rsquo;s all up in there, you know?  Kinda like that cat vomit is all up inbetween the wood planks.  That&rsquo;s part of the house now.</p>
+
+<p>Oh man, Rails, what have they been feeding you?</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
