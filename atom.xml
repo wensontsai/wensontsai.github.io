@@ -4,7 +4,7 @@
 	<title><![CDATA[Code Journey]]></title>
 	<link href="http://wensontsai.github.io/atom.xml" rel="self"/>
 	<link href="http://wensontsai.github.io/"/>
-	<updated>2013-10-08T01:19:14-04:00</updated>
+	<updated>2013-10-10T01:18:29-04:00</updated>
 	<id>http://wensontsai.github.io/</id>
 	<author>
 		<name><![CDATA[Wenson Tsai]]></name>
@@ -12,6 +12,46 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[cat claws]]></title>
+		
+		<link href="http://wensontsai.github.io/blog/2013/10/10/day-number-18/"/>
+		<updated>2013-10-10T01:09:00-04:00</updated>
+		<id>http://wensontsai.github.io/blog/2013/10/10/day-number-18</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>Cat claws be latching my jeans, like Rails latch me brain.  We worked on putting the StackWorld website room warp project onto pure Rails today, and it was a good chance to wrap our heads around the whole structure, MCV, behind-the-scenes voodoo, all that jazz.  I had my sleep and ate more of my bagel than I usually do, had toooo many cups of green tea, was amped, and driving, driven, and droven.  Head down, forking and porking, it wasn&rsquo;t easy, but it was doable.  Definitely doable.  It&rsquo;s always the little hiccups that get you.  Misspellings, fucking misspellings.  Am I misspelling mispelings now? oh soh me-tta.  Mis-spellings will mess you up man.  And this whole Rails-so-smart-it-know-plurals! bullshit, will also mess you up.  Remember &ndash; models => singular.  Controller => plural.  This saves trouble, keeps nosebleed blood inside brain.  Tomorrow is coming.  Tomorrow will come soon.  I must sleep.</p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[day old]]></title>
+		
+		<link href="http://wensontsai.github.io/blog/2013/10/10/day-number-17/"/>
+		<updated>2013-10-10T00:59:00-04:00</updated>
+		<id>http://wensontsai.github.io/blog/2013/10/10/day-number-17</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p><img src="http://img.photobucket.com/albums/v416/yelofngr/screenshot-1.png" title="day late evernote 001" alt="day late evernote 001" /></p>
+
+<p>I couldn&rsquo;t figure out the rails/ruby/git situation until today, so here&rsquo;s the evernote screenshot.</p>
+
+<p>Here&rsquo;s the link for easy clicking: <a href="https://www.youtube.com/watch?v=cMcEgOPza8A">https://www.youtube.com/watch?v=cMcEgOPza8A</a></p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
