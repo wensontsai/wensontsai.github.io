@@ -4,7 +4,7 @@
 	<title><![CDATA[Code Journey]]></title>
 	<link href="http://wensontsai.github.io/atom.xml" rel="self"/>
 	<link href="http://wensontsai.github.io/"/>
-	<updated>2013-10-11T09:58:52-04:00</updated>
+	<updated>2013-10-15T01:27:29-04:00</updated>
 	<id>http://wensontsai.github.io/</id>
 	<author>
 		<name><![CDATA[Wenson Tsai]]></name>
@@ -12,6 +12,24 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[project based]]></title>
+		
+		<link href="http://wensontsai.github.io/blog/2013/10/15/day-number-20/"/>
+		<updated>2013-10-15T01:23:00-04:00</updated>
+		<id>http://wensontsai.github.io/blog/2013/10/15/day-number-20</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>A third of the program is now in the bag.  In another 2 weeks, we will be shifting to pure projects.  It&rsquo;s kind of unbelievable.  However much I&rsquo;ve learned at this point, I&rsquo;m not even sure &ndash; I&rsquo;m just used to the struggle.  Today, we began constructing our own version of kickstarter/crowdtilt.  It&rsquo;s a meaty one for sure.  Working through it will only solidify the Rails understanding deeper.  Javascript will come soon as well, and then, the world.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -577,39 +595,6 @@ alt="are we human, or are we dancer" width="480" height="360" border="0" /></a><
 <p>I got home around 1030pm, couldn&rsquo;t leave pig-latin alone &ndash; worked another 2 hours, drawing diagrams, scribbling notes, then crashed out, still confused.  Super burnt.  Super frustrated.</p>
 
 <p>Well, mountains look highest next to the deepest valleys.  I&rsquo;m sure some wise dude with a beard once said.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Day #1]]></title>
-		
-		<link href="http://wensontsai.github.io/blog/2013/09/17/day-number-1/"/>
-		<updated>2013-09-17T12:30:00-04:00</updated>
-		<id>http://wensontsai.github.io/blog/2013/09/17/day-number-1</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>The morning was spent shaking off nerves with laughs, dark jokes, and dancing as we threw ourselves in a course of improv.  It was a great way to get out of our shells, look dumb in front of a room of strangers/new friends, and get us in the right mindset to be team-players.</p>
-
-<p>Lessons to take away:</p>
-
-<ol>
-<li><p><strong>Yes, AND&hellip;</strong>   &ndash; Always accept what your fellow player gives you, AND try to give them something back that they can work with, a little gift.  &ldquo;No&rdquo;/questions take the energy somewhere else unproductive with the flow</p></li>
-<li><p><strong>Always show up</strong>   &ndash; No matter if you are scared, unprepared or what, just show up and create in the moment from there.  That&rsquo;s the most important.</p></li>
-<li><p><strong>Help them out</strong>   &ndash; When you see a fellow player in trouble, jump in and save them.  Don&rsquo;t let them die alone out there!</p></li>
-</ol>
-
-
-<p>The afternoon was just as invigorating as we jumped straight into setting up our Fullstack profile pages off a minimal template.  It was HTML/CSS in action, as well as a challenge in vision &ndash; to create a stylesheet, requires understanding how to work within the defaults/habits of HTML/CSS.  It was a leap into madness with divs, nested divs, floats, and the beauty hack of the &ldquo;clearfix.&rdquo;  This was all after setting up Github and learning how to commits as well.</p>
-
-<p>I got most of the page looking like it was supposed to, but then spent the last 2 hours trying to get some links to hug right and to the bottom.  It just wasn&rsquo;t meant to be.  As a last ditch effort, I tried to renest one of the divs by putting the main quote into a class of its own, and leaving the links outside to text-align: right.  THEN, I noticed a div tag that I forgot to close.  I closed that, then scooted a few things around, and the page just went to shit.  Everything became unaligned, and CTRL-Z became the very bestest friend I could have ever had.  Backsteps off the lava cliff jump.  And so, it wasn&rsquo;t perfect, but it was something.</p>
-
-<p>I rushed out fast for the first time in a week &ndash; headed off to the Apple Store to replace the battery on my brand new Macbook Air.  Here&rsquo;s to 12 hours of battery time.</p>
 ]]>
 		</content>
 	</entry>
