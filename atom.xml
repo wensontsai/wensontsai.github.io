@@ -4,7 +4,7 @@
 	<title><![CDATA[Code Journey]]></title>
 	<link href="http://wensontsai.github.io/atom.xml" rel="self"/>
 	<link href="http://wensontsai.github.io/"/>
-	<updated>2013-10-15T01:27:29-04:00</updated>
+	<updated>2013-10-15T21:31:21-04:00</updated>
 	<id>http://wensontsai.github.io/</id>
 	<author>
 		<name><![CDATA[Wenson Tsai]]></name>
@@ -12,6 +12,34 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[vicissitudes]]></title>
+		
+		<link href="http://wensontsai.github.io/blog/2013/10/15/day-number-21/"/>
+		<updated>2013-10-15T20:20:00-04:00</updated>
+		<id>http://wensontsai.github.io/blog/2013/10/15/day-number-21</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>Day 2 of kickstarter/crowdtilt.  We break chunks.  We scrum with the best of them.  We are the scrummiest.  Sometimes you non-stop win, other times you tear your sweater on a splinter &ndash; it&rsquo;s all good, you&rsquo;re still in the game.  Today, tackled and cleared up (to a certain extent) more under-hood Rails voodoo.  Associations are like untangling really thin and long earphone cables.  Patience, man, patience.  You wanna hear the music, don&rsquo;t you?  Did you know all about these things Rails is doing behind your back?  Creating 11 methods just because you said &lsquo;has_many&rsquo;?  Hey.  Surprise on me.</p>
+
+<p>It&rsquo;s coming together, though.</p>
+
+<p>Any progress is good progress.  And a whole bunch of other mantra type shit.  It&rsquo;s all true.</p>
+
+<p>Until it&rsquo;s not true.</p>
+
+<p>Our usual Fullstack Tuesday dinners was had yesterday when Andy, a freelance developer came by to share his vision of a trans-global life &ndash; free to work, free to be (which in his case is running marathons all over the world including Kenya and Alaska(?).  His current client wouldn&rsquo;t care if he was gone for 6mos on a beach in Thailand as long as his git pushes kept coming through and clean.  I&rsquo;m willing to stretch it to 1 or 2 yrs.  First, got to get the builder skills up though, wrestle some open source, get a few gems named after me and my body parts.</p>
+
+<p>Late in the day, I invented an app that will aggregate people&rsquo;s grandmas and then farm them out to stranger&rsquo;s homes where they cook people really kickass home-meals for money.  Grandma Swap.  Or, maybe more like Grandma Pimp, huh.  Will the SPCA be mad at me?  I promise they&rsquo;re all free-range grandmas.  If anyone is interested in trusting me with your grandmas, let me know.  I&rsquo;m an old lady&rsquo;s dream.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -565,36 +593,6 @@ alt="are we human, or are we dancer" width="480" height="360" border="0" /></a><
 <p>We got a new project to work on that will take us the rest of the week, a few hours before go-home.  I have not even touched the haiku problem yet from yesterday.  I want to crack at it.  And there&rsquo;s so much pre-work I still want to do, and I want to do the testfirst problems over as well.  So much to do, not so much time.</p>
 
 <p>I have fallen into the NYC pace of non-stop, much like a small child leaping backwards into a mountain of laundry, on a perched but soft bed.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[peaks need valleys]]></title>
-		
-		<link href="http://wensontsai.github.io/blog/2013/09/18/day-number-2/"/>
-		<updated>2013-09-18T22:12:00-04:00</updated>
-		<id>http://wensontsai.github.io/blog/2013/09/18/day-number-2</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>Day two, we started off getting our github/Octopress pages configured and set up.  Hit some snags early on, and it felt like the entire day was all catch up.  The afternoon was spent going through Testfirst.org&rsquo;s Ruby Rspec exercises.</p>
-
-<p>This was extremely confusing at first, since Rspec has its own language, and you must read through it, figure exactly what it is looking for, name your files, classes, methods appropriately, to pass the tests.  What also confused me majorly was not having to print to screen, not having to write the code to finish &ndash; just barebones methods, classes were sufficient.  Cause as you know &ndash; methods always return the last value!</p>
-
-<p>After lunch, catch up became a trudge through Vietnam jungle mud with angry charly in the trees &ndash; problems became immovable, and the brain liquified.  By 4:30pm I was pretty much baked.  With the gracious help of others around, I hacked on and on and always made sure to wrap my head around the principles more than anything else.  Syntax.  Pssh, suck it syntax!!</p>
-
-<p>The day would come to be marked by the pig-latin problem.  Write a method that will take a phrase, separate that into words, turn each word into pig-latin, then pump it back out as a phrase.  Simple-sounding enough right?  No.  Not at all.  This problem haunted and broke me over and over until Day 3&rsquo;s explanation in the morning.</p>
-
-<p>Day two was a solid 12 hours.  I don&rsquo;t remember the last time I went this hard.  It&rsquo;s been a while.  We also had our first Fullstack Dinner tonight, which was good, but brief, as we all had to get back to work.  Back to work!</p>
-
-<p>I got home around 1030pm, couldn&rsquo;t leave pig-latin alone &ndash; worked another 2 hours, drawing diagrams, scribbling notes, then crashed out, still confused.  Super burnt.  Super frustrated.</p>
-
-<p>Well, mountains look highest next to the deepest valleys.  I&rsquo;m sure some wise dude with a beard once said.</p>
 ]]>
 		</content>
 	</entry>
