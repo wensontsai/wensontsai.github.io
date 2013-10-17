@@ -4,7 +4,7 @@
 	<title><![CDATA[Code Journey]]></title>
 	<link href="http://wensontsai.github.io/atom.xml" rel="self"/>
 	<link href="http://wensontsai.github.io/"/>
-	<updated>2013-10-17T01:11:41-04:00</updated>
+	<updated>2013-10-17T01:14:14-04:00</updated>
 	<id>http://wensontsai.github.io/</id>
 	<author>
 		<name><![CDATA[Wenson Tsai]]></name>
@@ -30,7 +30,7 @@
 
 <p>I&rsquo;ve been hearing this from various sources lately, and it&rsquo;s a good piece to keep around &ndash; &ldquo;It&rsquo;s a marathon, not a sprint.&rdquo;  It&rsquo;s going to take time for new concepts, a brand new way of thinking, a brand new way of looking at the world, to truly sink in.  This is probably gonna change the way your brain puts everything together, so be patient.  If you do find yourself in a mad scram up a 90deg slope, just know, this is kinda what it is supposed to be.</p>
 
-<p>I&rsquo;m progressing.  I&rsquo;m soaking it all up.  It&rsquo;s coming.  It&rsquo;s been a month really.  I&rsquo;m relearning America too (personal struggle).  Show up, show up, show up.  That&rsquo;s what it is.  Show up, pace, keep fun, keep joy, and cruise.  Eye-of-the-storm type shit.</p>
+<p>I&rsquo;m progressing.  I&rsquo;m soaking it all up.  It&rsquo;s coming.  It&rsquo;s been a month really.  I&rsquo;m relearning America too (personal struggle).  Show up, show up, show up.  Show up, pace, keep fun, keep joy, and cruise.  Eye-of-the-storm.  Eezy peezy.</p>
 
 <p>Today, we continued chopping up and rolling out like Navy Seals on this kickstarter project.  We scrum in Trello, then break, handle our parts, then git push, clear our commits, then group pull back down like we are sitting at some cotton spider-loom of interweb construction.  With guidance, we managed to install Stripe&rsquo;s credit-card payment API onto our page as checkout.  It&rsquo;s simple and barebones, but exciting.  Mostly because to test it, I keep paying myself lots of imaginary ducats and my customer count keeps climbing.  Soon I&rsquo;ll be rolling deep like 37signals and DHH, getting 10,000+ github commits, people flying me to talk about which Ruby gem is my favorite, which unicode symbol I prefer on my prompt during the Autumn Equinox, hipchatting honey-babies in my Bugatti, as I drip start-up ideas all over the place like a child discovering honey, money.</p>
 
