@@ -4,7 +4,7 @@
 	<title><![CDATA[Code Journey]]></title>
 	<link href="http://wensontsai.github.io/atom.xml" rel="self"/>
 	<link href="http://wensontsai.github.io/"/>
-	<updated>2013-10-22T00:41:41-04:00</updated>
+	<updated>2013-10-23T01:21:36-04:00</updated>
 	<id>http://wensontsai.github.io/</id>
 	<author>
 		<name><![CDATA[Wenson Tsai]]></name>
@@ -12,6 +12,34 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[dribble, dunk, triangle offence]]></title>
+		
+		<link href="http://wensontsai.github.io/blog/2013/10/22/day-number-27/"/>
+		<updated>2013-10-22T23:14:00-04:00</updated>
+		<id>http://wensontsai.github.io/blog/2013/10/22/day-number-27</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>Michael Nutt, co-founder and CTO of Moveable Ink(moveableink.com) rolled through to drop some knowledge and experience tonight for Fullstack talk/dinner.  He came up with the idea for Moveable Ink on a Friday, coded a rough through the weekend, worked with no revenue for a year, but it took off and it&rsquo;s been going places ever since.  Also, Michael beat out 400 developers in the Hacking Education contest which encourages the public to make discoveries and build apps to improve education in America.  Pretty cool stuff.  Then Stephen Colbert awarded him the most American-y trophy ever, and he got to sit in the chair and the set of the Colbert Report (<a href="http://www.donorschoose.org/blog/2011/07/25/stephen-colbert-anoints-big-winner/">http://www.donorschoose.org/blog/2011/07/25/stephen-colbert-anoints-big-winner/</a>).</p>
+
+<p>Michael was the guy who came over and helped us get our lego robot to work that fateful first Fullstack Friday eons ago &ndash; I had no idea he was such a start-up kingpin, tech and dev wizard &ndash; he&rsquo;s the nicest, most approachable guy.  Not to say talented, hard-working, and successful people are assholes &ndash; I just didn&rsquo;t know he had so many other important things to be doing instead of playing legos!</p>
+
+<p>Today he spoke to us about scaling your business once it begins to take off, giving us insights on the app and database side of things.  It was a bit over my head, but really nice to hear.  Afterwards, a fellow student seemed a bit bewildered as well and felt lost.</p>
+
+<p>I got these thoughts right then though, that one day we would be there.  Like, it&rsquo;s overwhelming now, because we&rsquo;re still trying to work out the basics, and they&rsquo;re talking high-level strategy.  You can&rsquo;t weave the defense, spin and glide, before you get your dribble down.  But once you got it like second nature, then you can focus on court vision, creativity, jerk and flow like a painting.  And, once you got that down, you can practice true inter-dependence and lead a team of 11 to victory.</p>
+
+<p>We&rsquo;ll get there, I told him.  We&rsquo;ll get there.  It might not be on our plate right now, but it&rsquo;s on the table.  It&rsquo;s on the spread.  We&rsquo;ll get there.  Bring on the stories, the glory, the pain, the losses, the wins.  I like feeling like I can be in the game.  I like knowing I can be there.  Call my name so I may turn my head and see what tasty-goodness is available.  Point it out so I may smell it, dream, plot, werk and twerk.  Put notice on, so I may figure out how to get it on my plate because I&rsquo;m hungry.</p>
+
+<p><img src="http://www.donorschoose.org/images/misc/hackinged/eagle500.jpg" title="BIG WINNER" alt="BIG WINNER" /></p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -523,38 +551,6 @@ alt="are we human, or are we dancer" width="480" height="360" border="0" /></a><
 
 <p>NoMethodError:
   undefined method &lsquo;DANCER&rsquo; for # _Rspec::Core::ExampleGroup::Nested_2::Nested_1:0x007ffda8042938>#./spec/requests/user_pages_spec.rb:9:in &lsquo;block (3 levels) in top(required&rsquo;</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[inspiration transfer]]></title>
-		
-		<link href="http://wensontsai.github.io/blog/2013/09/24/day-number-7/"/>
-		<updated>2013-09-24T21:21:00-04:00</updated>
-		<id>http://wensontsai.github.io/blog/2013/09/24/day-number-7</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>Rough.  That&rsquo;s all I can really say.  The going is rough.  It&rsquo;s full-on Rocky over here without the benefit of a Netflix summary telling you everything&rsquo;s gonna wrap up okay at the end of 1:45hrs run-time.  Driving rough.</p>
-
-<p>We finished up the Rspec blackjack testing/coding endeavor today, didn&rsquo;t gain too much more ground on getting greens and drowning red failure statements.  Even after all was explained and done, I still felt drowny and heavy all up in the chest.  We then moved on to learning SQL.  Oh syntax, you are the worst ex-girlfriend of them all, I swear.</p>
-
-<p>The crotch punches continued deep into dusk, with little to no tea-refill breaks (we were out of water tanks for the dispenser so I put some green tea in some seltzer water.  a bubbly gassy fail.) the abuse remained a flurry until our Fullstack Dinner ++ today where we were treated to a delicious and balanced meal from Digg Inn, loved ones and friends joined us, mostly I think, so they could lock in a mental/emotional picture for imagining where their significant other/loved ones are when they don&rsquo;t ever see them in person again until December.  It&rsquo;s busy up in here.</p>
-
-<p>I was so tired and defeated, but soon summoned to life.  The two girls in the class beckoned me over to sit between them.  The other Taiwanese-American guy in the class mentored me about my life.  Apparently he was a movie producer on the side, all the while having his hands in the tech VC world.  Very interesting, and unexpected.  I spilled a bit of my past lives, and there we were in the middle of a long table, talking shop in that weird snooty entertainment industry way, making jokes about crafty and trail mix.  I always did love being on set.</p>
-
-<p>He buckled down tough-love style, but I was listening.  His message? to focus down what exactly I wanted to get out of this experience &ndash; also, what I wanted to get out of the life I had remaining.  This intensity was really happening at the same table we ate bagels and cream cheese every morning, except with people all around watching the spectacle, but they didn&rsquo;t really exist anyway.  He gave me a lot to think about.</p>
-
-<p>As people came and went, another group formed, and these two other students began talking about their dedication to working on personal projects.  Unexpected inspiration again.  I felt electrified to hear of them wishing this place had a shower so they could work around the clock to get stuff done.  We are already 10% of the way through the program, one said.  He&rsquo;s right.  Better get on it.</p>
-
-<p>I will come up with a passion project of my own to spearhead the learning and networking and NASA fall-out transfer technologies and make me portfolio pretty and give me lots of fire when I talk about things I care about, get the toes and fingers all wet and sticky again in the cauldron of life and creativity and imagination and possibilities and yes.  I think there will be a capstone project before we finish anyways, and it will be fantastic to have a vehicle to push everything forth as I leave gravity behind and burn, burn, burn it up through the atmosphere.</p>
-
-<p>The last few short and sudden hours have reminded me that eyes keep focused solely on the road, it miss the scenery.  The unseen benefits of a road trip are many.</p>
 ]]>
 		</content>
 	</entry>

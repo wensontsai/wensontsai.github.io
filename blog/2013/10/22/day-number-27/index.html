@@ -1,0 +1,139 @@
+
+<!doctype html>
+<!-- START OF _layouts/default.html -->
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" >
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<meta content="becoming a developer with Fullstack Academy in New York City" name="description">
+		<meta content="Code Journey" name="author">
+
+		<title>dribble, dunk, triangle offence &mdash; Code Journey</title>
+
+		<!-- Styles -->
+		<link href="/stylesheets/main.css" rel="stylesheet">
+
+		<!-- Google webfonts -->
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cousine">
+
+		<!-- jQuery and plugins -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script src="/js/jquery.zclip.min.js"></script>
+
+
+
+
+		<!-- Syntax highlighter -->
+		<link href="/stylesheets/prettify-hemisu.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="/js/prettify.js"></script>
+
+		<!--<link href="http://feeds.feedburner.com/turkeltaub" rel="alternate" title="Code Journey" type="application/rss+xml" />-->
+
+	</head>
+	<body onload="prettyPrint()">
+
+		<div class="wrap">
+
+			<header>
+				<div class="title">Code Journey</div>
+
+				<div class="navi">
+					<ul>
+						<li><a href="/">Blog</a></li>
+						<li><a href="/blog/archives">Archives</a></li>
+					<ul>
+				</div> <!-- // .navi -->
+			</header>
+
+				<!-- START OF _layouts/post.html -->
+
+<!-- START OF _includes/article.html -->
+<article>
+	<header>
+		<h1><a href="/blog/2013/10/22/day-number-27/">dribble, dunk, triangle offence</a></h1>
+		<time>22 October 2013</time>
+	</header>
+		<div class="content">
+			<p>Michael Nutt, co-founder and CTO of Moveable Ink(moveableink.com) rolled through to drop some knowledge and experience tonight for Fullstack talk/dinner.  He came up with the idea for Moveable Ink on a Friday, coded a rough through the weekend, worked with no revenue for a year, but it took off and it&rsquo;s been going places ever since.  Also, Michael beat out 400 developers in the Hacking Education contest which encourages the public to make discoveries and build apps to improve education in America.  Pretty cool stuff.  Then Stephen Colbert awarded him the most American-y trophy ever, and he got to sit in the chair and the set of the Colbert Report (<a href="http://www.donorschoose.org/blog/2011/07/25/stephen-colbert-anoints-big-winner/">http://www.donorschoose.org/blog/2011/07/25/stephen-colbert-anoints-big-winner/</a>).</p>
+
+<p>Michael was the guy who came over and helped us get our lego robot to work that fateful first Fullstack Friday eons ago &ndash; I had no idea he was such a start-up kingpin, tech and dev wizard &ndash; he&rsquo;s the nicest, most approachable guy.  Not to say talented, hard-working, and successful people are assholes &ndash; I just didn&rsquo;t know he had so many other important things to be doing instead of playing legos!</p>
+
+<p>Today he spoke to us about scaling your business once it begins to take off, giving us insights on the app and database side of things.  It was a bit over my head, but really nice to hear.  Afterwards, a fellow student seemed a bit bewildered as well and felt lost.</p>
+
+<p>I got these thoughts right then though, that one day we would be there.  Like, it&rsquo;s overwhelming now, because we&rsquo;re still trying to work out the basics, and they&rsquo;re talking high-level strategy.  You can&rsquo;t weave the defense, spin and glide, before you get your dribble down.  But once you got it like second nature, then you can focus on court vision, creativity, jerk and flow like a painting.  And, once you got that down, you can practice true inter-dependence and lead a team of 11 to victory.</p>
+
+<p>We&rsquo;ll get there, I told him.  We&rsquo;ll get there.  It might not be on our plate right now, but it&rsquo;s on the table.  It&rsquo;s on the spread.  We&rsquo;ll get there.  Bring on the stories, the glory, the pain, the losses, the wins.  I like feeling like I can be in the game.  I like knowing I can be there.  Call my name so I may turn my head and see what tasty-goodness is available.  Point it out so I may smell it, dream, plot, werk and twerk.  Put notice on, so I may figure out how to get it on my plate because I&rsquo;m hungry.</p>
+
+<p><img src="http://www.donorschoose.org/images/misc/hackinged/eagle500.jpg" title="BIG WINNER" alt="BIG WINNER" /></p>
+
+		</div>
+	<footer>
+		
+
+
+		
+
+
+
+
+	
+	
+	</footer>
+	
+</article>
+<!-- END OF _includes/article.html -->
+
+
+<!-- END OF _/layouts/post.html -->
+
+
+			<footer>
+				Copyright &copy; 2013
+
+	Wenson Tsai
+
+
+			</footer>
+
+		</div> <!-- // .wrap -->
+
+
+
+
+
+
+
+
+
+	</body>
+	<script>
+		$(document).ready(function() {
+			// Make images center
+			$('p:has(img)').css('text-align', 'center');
+
+			// Add the image's title attribute as a caption
+			$('p:has(img)').append(function () {
+				return '<div class="caption">' + $('img', this).attr('title') + '</div>';
+			});
+
+			// Prettify code
+			$('code').addClass('prettyprint');
+			$('pre code').addClass('linenums');
+
+			// Copy to clipboard with button
+			$('pre:has(code)').prepend(function(){
+				return '<div class="clip-btn">copy to clipboard</div>';
+			});
+			$('.clip-btn').zclip({
+				path:'/js/ZeroClipboard.swf',
+				copy: $(this).next('code').text(),
+				afterCopy: function(){
+					$(this).replaceWith('<div class="clip-btn">copied!');
+					}
+			});
+		});
+	</script>
+</html>
+<!-- END OF _layouts/default.html -->
