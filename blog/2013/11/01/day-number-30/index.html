@@ -1,0 +1,139 @@
+
+<!doctype html>
+<!-- START OF _layouts/default.html -->
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" >
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<meta content="becoming a developer with Fullstack Academy in New York City" name="description">
+		<meta content="Code Journey" name="author">
+
+		<title>come together &mdash; Code Journey</title>
+
+		<!-- Styles -->
+		<link href="/stylesheets/main.css" rel="stylesheet">
+
+		<!-- Google webfonts -->
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cousine">
+
+		<!-- jQuery and plugins -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script src="/js/jquery.zclip.min.js"></script>
+
+
+
+
+		<!-- Syntax highlighter -->
+		<link href="/stylesheets/prettify-hemisu.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="/js/prettify.js"></script>
+
+		<!--<link href="http://feeds.feedburner.com/turkeltaub" rel="alternate" title="Code Journey" type="application/rss+xml" />-->
+
+	</head>
+	<body onload="prettyPrint()">
+
+		<div class="wrap">
+
+			<header>
+				<div class="title">Code Journey</div>
+
+				<div class="navi">
+					<ul>
+						<li><a href="/">Blog</a></li>
+						<li><a href="/blog/archives">Archives</a></li>
+					<ul>
+				</div> <!-- // .navi -->
+			</header>
+
+				<!-- START OF _layouts/post.html -->
+
+<!-- START OF _includes/article.html -->
+<article>
+	<header>
+		<h1><a href="/blog/2013/11/01/day-number-30/">come together</a></h1>
+		<time>01 November 2013</time>
+	</header>
+		<div class="content">
+			<p>I am excited that we are nearing the end of the stack.  There&rsquo;s lots of things I would love to have time to go back and work on.  I feel like I got the &ldquo;Europe in 3 days!&rdquo; tour.  I wanna go back, get lost on some old cobbled backstreets, chill out for an hour at a cafe, and really understand why French people get so uppity when you speak to them in English.</p>
+
+<p>I am more and more convinced that hacking is definitely a DO-type endeavor.  Tomorrow I will begin to work on implementing a site that can link up various video screens, so people can play music together, attend a concert, a talk, or other social event.  I&rsquo;m werking to twerk the angles to see how it can be more of a social experiment &ndash; a platform free for the people to use and experiment with.  Teach me a thing or three, please.  I am imagining like your own Ticketmaster, your own Madison Square Garden.  A virtual concert hall/theatre/lecture space for selling tickets to whatever you can, whatever your followers love for you to share.  First things first though, just to get 3 screens to show up, and be able to throw that into a room.  Tiny step.  Long journey.</p>
+
+<p>Front-end vs. back-end:  Front-end is exciting.  Back-end is necessary &ndash; it&rsquo;s solid, got fortitude, but no one notices the trunk of trees (unless there&rsquo;s a problem).  People drive upstate to watch leaves change though.  I am interested in getting more into UI/UX.</p>
+
+<p>The backbone.js presentation yesterday was blowing way over my head.</p>
+
+<p>I&rsquo;m pissed at Ajax right now.</p>
+
+<p>The amalgamation of rails/activerecord/sql/ruby/mvc &lt;=> erb/html &lt;=> jQuery/ajax/javascript all on one page with all their objects and &ldquo;.&rdquo;&rsquo;s kinda ravages my brain.  Can javascript pointers point to ruby objects that point to sql objects, or are javascript and ruby/rails object pointers more like two rivers that never intersect?  Or, do they intersect through the sql database?</p>
+
+		</div>
+	<footer>
+		
+
+
+		
+
+
+
+
+	
+	
+	</footer>
+	
+</article>
+<!-- END OF _includes/article.html -->
+
+
+<!-- END OF _/layouts/post.html -->
+
+
+			<footer>
+				Copyright &copy; 2013
+
+	Wenson Tsai
+
+
+			</footer>
+
+		</div> <!-- // .wrap -->
+
+
+
+
+
+
+
+
+
+	</body>
+	<script>
+		$(document).ready(function() {
+			// Make images center
+			$('p:has(img)').css('text-align', 'center');
+
+			// Add the image's title attribute as a caption
+			$('p:has(img)').append(function () {
+				return '<div class="caption">' + $('img', this).attr('title') + '</div>';
+			});
+
+			// Prettify code
+			$('code').addClass('prettyprint');
+			$('pre code').addClass('linenums');
+
+			// Copy to clipboard with button
+			$('pre:has(code)').prepend(function(){
+				return '<div class="clip-btn">copy to clipboard</div>';
+			});
+			$('.clip-btn').zclip({
+				path:'/js/ZeroClipboard.swf',
+				copy: $(this).next('code').text(),
+				afterCopy: function(){
+					$(this).replaceWith('<div class="clip-btn">copied!');
+					}
+			});
+		});
+	</script>
+</html>
+<!-- END OF _layouts/default.html -->
