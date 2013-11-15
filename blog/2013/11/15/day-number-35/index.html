@@ -1,0 +1,147 @@
+
+<!doctype html>
+<!-- START OF _layouts/default.html -->
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" >
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<meta content="becoming a developer with Fullstack Academy in New York City" name="description">
+		<meta content="Code Journey" name="author">
+
+		<title>innit &mdash; Code Journey</title>
+
+		<!-- Styles -->
+		<link href="/stylesheets/main.css" rel="stylesheet">
+
+		<!-- Google webfonts -->
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cousine">
+
+		<!-- jQuery and plugins -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script src="/js/jquery.zclip.min.js"></script>
+
+
+
+
+		<!-- Syntax highlighter -->
+		<link href="/stylesheets/prettify-hemisu.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="/js/prettify.js"></script>
+
+		<!--<link href="http://feeds.feedburner.com/turkeltaub" rel="alternate" title="Code Journey" type="application/rss+xml" />-->
+
+	</head>
+	<body onload="prettyPrint()">
+
+		<div class="wrap">
+
+			<header>
+				<div class="title">Code Journey</div>
+
+				<div class="navi">
+					<ul>
+						<li><a href="/">Blog</a></li>
+						<li><a href="/blog/archives">Archives</a></li>
+					<ul>
+				</div> <!-- // .navi -->
+			</header>
+
+				<!-- START OF _layouts/post.html -->
+
+<!-- START OF _includes/article.html -->
+<article>
+	<header>
+		<h1><a href="/blog/2013/11/15/day-number-35/">innit</a></h1>
+		<time>15 November 2013</time>
+	</header>
+		<div class="content">
+			<p>I&rsquo;ve been away.  I&rsquo;ll tell you why.  I was feeling crushed by the crush of the self-crush.  Learning the full stack had become the beast that I could never feed enough &ndash; not enough energy, study, effort, time, weekends, or nights &ndash; the beast had become a burden.  Advice of the head is hard to seep in the heart somehow, the membrane is pro- or anti- lipids I can&rsquo;t remember which one.  I realized the importance of not grinding your wheels and rails to a pulp &ndash; even choo-choos have limits &ndash; yet, there I was gunning like some 16-yr old rodeo bullrider with everything to prove and nothing to lose, all burn all the time.</p>
+
+<p>I got 4 days away &ndash; I was determined to work during those 4 days, but as soon as I entered back into the lazy obese air of my place of birth, sitting in the oppressive quiet of my mother&rsquo;s house, backbone.js was gone.  Backbone.js couldn&rsquo;t be further away &ndash; iterm and sublime had no place in my plane of reality anymore.  It was just a few days, but I feel more grounded and grasping of a perspective on everything that is going on again.  Paradigm shifts are a must.  Rest is a must.</p>
+
+<p>Here are some bullet points organized in no particular theme, purpose, nor order:</p>
+
+<ul>
+<li><p>about 2 weeks ago, Emily from MongoDB came to speak to us, and for the first time in my life I felt aroused about a database</p></li>
+<li><p>my endurance has increased &ndash; I can now google search about something I know nothing about over and over for longer periods of time with less cop-out</p></li>
+<li><p>I work better with earplugs in and music on</p></li>
+<li><p>New York Times Hackathon this weekend !</p></li>
+<li><p>I like capstone-project phase and the analog Trello system we got going in the classroom on a plane of glass.  Lewis and Clark up in the digital sphere with only the occasional courier dispatch.</p></li>
+<li><p>Going home at 9pm no matter if I&rsquo;m feeling energetic or not is a life-saver must law</p></li>
+<li><p>It&rsquo;s all gonna get done &ndash; it just will.  No matter how many hours you put in or kill/sacrifice yourself for the work &ndash; it&rsquo;ll get done somehow.  Often in the end, it doesn&rsquo;t even matter.  A friend wiser than me who&rsquo;s lived through it told me.</p></li>
+<li><p>Coding remains a subclass that inherits from the class of life.  Never forget it.</p></li>
+<li><p>Charlotte yoga is a lifesaver.  Can she do Rails tutorials in her soothing voice?  Breathe in through the nostrils, Movies has_many Actors.  Now breathe out through the mouth &ndash; AHHHHHHHHHHHHHHHhhh h h</p></li>
+<li><p>4 weeks left.  Let&rsquo;s have some fucking fun.</p></li>
+</ul>
+
+
+		</div>
+	<footer>
+		
+
+
+		
+
+
+
+
+	
+	
+	</footer>
+	
+</article>
+<!-- END OF _includes/article.html -->
+
+
+<!-- END OF _/layouts/post.html -->
+
+
+			<footer>
+				Copyright &copy; 2013
+
+	Wenson Tsai
+
+
+			</footer>
+
+		</div> <!-- // .wrap -->
+
+
+
+
+
+
+
+
+
+	</body>
+	<script>
+		$(document).ready(function() {
+			// Make images center
+			$('p:has(img)').css('text-align', 'center');
+
+			// Add the image's title attribute as a caption
+			$('p:has(img)').append(function () {
+				return '<div class="caption">' + $('img', this).attr('title') + '</div>';
+			});
+
+			// Prettify code
+			$('code').addClass('prettyprint');
+			$('pre code').addClass('linenums');
+
+			// Copy to clipboard with button
+			$('pre:has(code)').prepend(function(){
+				return '<div class="clip-btn">copy to clipboard</div>';
+			});
+			$('.clip-btn').zclip({
+				path:'/js/ZeroClipboard.swf',
+				copy: $(this).next('code').text(),
+				afterCopy: function(){
+					$(this).replaceWith('<div class="clip-btn">copied!');
+					}
+			});
+		});
+	</script>
+</html>
+<!-- END OF _layouts/default.html -->
