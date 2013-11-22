@@ -4,7 +4,7 @@
 	<title><![CDATA[Code Journey]]></title>
 	<link href="http://wensontsai.github.io/atom.xml" rel="self"/>
 	<link href="http://wensontsai.github.io/"/>
-	<updated>2013-11-15T10:29:56-05:00</updated>
+	<updated>2013-11-22T15:58:55-05:00</updated>
 	<id>http://wensontsai.github.io/</id>
 	<author>
 		<name><![CDATA[Wenson Tsai]]></name>
@@ -42,7 +42,7 @@
 <li><p>It&rsquo;s all gonna get done &ndash; it just will.  No matter how many hours you put in or kill/sacrifice yourself for the work &ndash; it&rsquo;ll get done somehow.  Often in the end, it doesn&rsquo;t even matter.  A friend wiser than me who&rsquo;s lived through it told me.</p></li>
 <li><p>Coding remains a subclass that inherits from the class of life.  Never forget it.</p></li>
 <li><p>Charlotte yoga is a lifesaver.  Can she do Rails tutorials in her soothing voice?  Breathe in through the nostrils, Movies has_many Actors.  Now breathe out through the mouth &ndash; AHHHHHHHHHHHHHHHhhh h h</p></li>
-<li><p>4 weeks left.  Let&rsquo;s have some fucking fun.</p></li>
+<li><p>4 weeks left.  Let&rsquo;s have some f*cking fun.</p></li>
 </ul>
 
 ]]>
@@ -68,75 +68,12 @@
 
 <p>Front-end vs. back-end:  Front-end is exciting.  Back-end is necessary &ndash; it&rsquo;s solid, got fortitude, but no one notices the trunk of trees (unless there&rsquo;s a problem).  People drive upstate to watch leaves change though.  I am interested in getting more into UI/UX.</p>
 
-<p>The backbone.js presentation yesterday was blowing way over my head.</p>
+<!-- The backbone.js presentation yesterday was blowing way over my head.
 
-<p>I&rsquo;m pissed at Ajax right now.</p>
+I'm pissed at Ajax right now.
 
-<p>The amalgamation of rails/activerecord/sql/ruby/mvc &lt;=> erb/html &lt;=> jQuery/ajax/javascript all on one page with all their objects and &ldquo;.&rdquo;&rsquo;s kinda ravages my brain.  Can javascript pointers point to ruby objects that point to sql objects, or are javascript and ruby/rails object pointers more like two rivers that never intersect?  Or, do they intersect through the sql database?</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[robo-bros/bro-bots]]></title>
-		
-		<link href="http://wensontsai.github.io/blog/2013/10/25/day-number-29/"/>
-		<updated>2013-10-25T09:46:00-04:00</updated>
-		<id>http://wensontsai.github.io/blog/2013/10/25/day-number-29</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>Ro-bro-riffic.  This is an issue like with all non-native languages.  I took Chinese for 10 years, and was iffy but could wing it.  Then I went off to Japan and learned Japanese.  To this day, unless I&rsquo;m on day 7 of a 2 week trip into the hinterlands of China, Japanese is going to come out when I try to speak Chinese.  My wires are all crossed up.  I got one foreign language position and inevitably it just edge each other out for dominance.</p>
+The amalgamation of rails/activerecord/sql/ruby/mvc <=> erb/html <=> jQuery/ajax/javascript all on one page with all their objects and &#8220;.&#8220;&#8216;s kinda ravages my brain.  Can javascript pointers point to ruby objects that point to sql objects, or are javascript and ruby/rails object pointers more like two rivers that never intersect?  Or, do they intersect through the sql database? &#8211;>
 
-<p>This is not to say, I can&rsquo;t speak both, I just got to ease into each one when the time is right, and the one I use most frequent and most often is default stronger.  I am hoping with Javascript and Ruby, both computer and not complete cultural transitive languages, that I got more sockets for that (there&rsquo;s a gem for that).</p>
-
-<p>Time will tell.  Ruby speaks okay English to me now.  Javascript is more like Beowulf in Olde English &ndash; tedious, non-sensical, with just enough slight surprises to make you perk, but also make you yell WHYY at the air.  My current solution to all these WHYY>??S is to just sprinkle semicolons and curly braces everywhere.  ;};;}:;}:};:}}:};}:}}}:}  .  I give you these little tasty symbols you like to eat, you be my friend and run appropriately, see?  Works for housecats.</p>
-
-<p>As I JUST learned yesterday after a string of very creative yet very wrong questions based on wrong assumptions (how did you name that function with dynamic strings that you can iterate over the numbers within the name string itself??!), Javascript is an entirely different beast upon and to itself.  Ruby is definitely the playground bully gum in the middle spiral of your hair.  But Javascript is running around with HTMl in different ways.  It&rsquo;s more like gum in your sideburns and your bangs too.</p>
-
-<p>I am not sure if I&rsquo;m quite to the point of describing these languages as tools.  I&rsquo;m definitely getting a lot better at using keyboard shortcuts though!  Soon, I will throw away any and all mice(mouses) I own.  Soon.</p>
-
-<p>I am most excited about&hellip; one day not playing catch-up anymore.  Although, that still seems a bit down the line.  I am excited about eventually having the freedom to known how to build shit.  To have an idea and be able to see into and through the machine, to intuitively understand the steps, and be able to lay it out in code, connect the dots, and have it go live and be alive.  Still feel like I&rsquo;m running drills and doing two hand dribbling practices.  Coach not putting me in the game yet.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[southern fried]]></title>
-		
-		<link href="http://wensontsai.github.io/blog/2013/10/24/day-number-28/"/>
-		<updated>2013-10-24T23:32:00-04:00</updated>
-		<id>http://wensontsai.github.io/blog/2013/10/24/day-number-28</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>I been real crispy lately.  Reallll crispy.  Maybe it&rsquo;s the days shortening, maybe it&rsquo;s the weather coldening, maybe, it&rsquo;s just the pressure from the mountain of strain and rush, materials marked to be learned that bury deeper and deeper under newer materials that also need to be learned, on top of more materials yet needing to be learned, causing fissure, crush goes the heap.  Crush goes the heap.  It&rsquo;s not easy for someone to admit they&rsquo;ve done put in the 330%, made the laps, and it still doesn&rsquo;t feel like it&rsquo;s even close to being enough, but I&rsquo;m tired.  Crispy and tired.  There&rsquo;s so much I want to execute, want to improve on, projects I want to initiate, the flesh is willing to run itself even more, perhaps even never sleep again, but the spirit, it rebels.</p>
-
-<p>The spirit wants to sit down and eat a slow, thoughtful and sensual meal over 47 minutes.  It wants to walk gradual in nature and hear nothing but the wind.  It wants to sit with people it feels close to, do nothing &ndash; nothing but just be.  The spirit wants to become music and forget that there is anything else ever in the history of space and time.  It wants to not have anything to do, even be bored out of its wits.  The spirit wants to know that everything is fine and good, so sufficiently good enough, just the very way it is.</p>
-
-<p>The immersive learning structure is intense.  I know all of you motherfuckers coming into this sit there and go &ldquo;Oh no, not me.  Not motherfucking me.  I&rsquo;ll grasp this shit like a wolf stealing a dead baby unlike your dis-talented ass!&rdquo;  Well, good luck to you.  I have the backing of the best friends and family in the world, all the reason in this very moment any human being would ever need to be motivated for success/work/money and then some, the hunger of a thousand lost dreams consolidated into a burping busting steam engine, years-cultivated habits of hardwork and success, a broad range of earned experiences and various toolkits to grab from, I&rsquo;ve taught myself about anything under the sun with relative ease over the years, and I still feel like I&rsquo;m majorly getting rocked.</p>
-
-<p>This is not to say, that you couldn&rsquo;t pick it up with ease.  It&rsquo;s just to say, hey, best of luck.  And, I mean it.  Good luck if this becomes your path.  Keep yourself strong.</p>
-
-<p>Tomorrow marks half of the course.  It will be 6 weeks.  In truth, 6 weeks is a miniscule blip of time for doing anything, let alone learning anything, let alone steering into uncharted tech waters, taking on a new way of thinking never attempted, absorbing an assortment of programming languages, computer science philosophy, start-up culture, business practices, and everything else we&rsquo;ve been dipping our hands and toes in these past few weeks.  It&rsquo;s a lot.</p>
-
-<p>Like everything else in this life, it won&rsquo;t be exactly this way forever.  Even in the densest aggregations of struggle, there is much to be cherished.  I know this.</p>
-
-<p>I know this.</p>
-
-<p>But the spirit wants a 2 day weekend, the spirit wants to eat good meals, not stuff food to silence hunger in order to quickly return to work.  The spirit wants to bike all over the city and effervescently choose joy over efficiency, the spirit wants to talk shit and smile with pretty girls, the spirit wants to play the drums for hours on end, dance, the spirit wants to laugh till its stomach hurts and throws up a little.  The spirit wants freedom to do whatever the hell it wants even if it has no chance in hell of leading to a job/career/money.  The spirit wants to be good at shit and be validated for it (however meaningless external validation can be it still feels good).  The spirit grows tired of calling out without being heard.  The spirit feels, at best, impartial towards github.</p>
-
-<p>Like everything else in this life, it won&rsquo;t be this way forever.  Even in the most poignant moments of loneliness and struggle, there is much to be treasured.  See the beauty as it rises and passes away.</p>
-
-<p>It&rsquo;s temporary.</p>
 ]]>
 		</content>
 	</entry>
@@ -393,28 +330,6 @@
 	
 	<entry>
 		
-			<title type="html"><![CDATA[pieces]]></title>
-		
-		<link href="http://wensontsai.github.io/blog/2013/10/08/day-number-16/"/>
-		<updated>2013-10-08T01:04:00-04:00</updated>
-		<id>http://wensontsai.github.io/blog/2013/10/08/day-number-16</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>After a weekend, that didn&rsquo;t feel much like a weekend because it was spent catching up on pre-work and learning about Rails, Monday rolled on forth with more Rails.  I was kinda glad I stayed in and brushed up, and by brushed up, I mean learned for the first time, Rails, because we dove right into it today.  Sinatra &ndash; out.  Rails in.  Rails is crazy cause with 2 command line returns, there&rsquo;s this mass of folders and controllers, routes, models, html/css that&rsquo;s just blegghgh right there.  Kinda like how this morning I awoke to my friend&rsquo;s cat wailing and making caulking-gun sounds.  I open the door, and there it was.  All this vomit everywhere.  Hello, Ruby on Rails generate scaffold function!</p>
-
-<p>Still working out the kinks, the connections, and my feelings towards this whole framework.  I went to a childhood friend&rsquo;s place for dinner and he asked me, so what does Rails do when you build a website?  Good question.  I just told him it&rsquo;s like some sort of glue that seeps in and makes things easier between html and SQL, and everything&hellip; um, yeah.  That&rsquo;s Rails!  Get&rsquo;s all up in there, you know?  Kinda like that cat vomit is all up inbetween the wood planks.  That&rsquo;s part of the house now.</p>
-
-<p>Oh man, Rails, what have they been feeding you?</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
 			<title type="html"><![CDATA[it's hard, but we walk anyway]]></title>
 		
 		<link href="http://wensontsai.github.io/blog/2013/10/05/day-number-15/"/>
@@ -533,6 +448,130 @@ description:  gum drops and jelly breams!<br><br></p>
 <p><img src="http://maison.trouvetout.ca/wp-content/uploads/2012/04/hong-kon-golden-toilet1.jpg" title="golden toilet" alt="golden toilet" /></p>
 
 <p>I went back in time to fetch a 24k gold spouted butt-washer add-on with adjustable pressure/temperature controls.  Worth the risk of having to fight dinosaurs/aliens/zombies.</p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[death of pig-latin]]></title>
+		
+		<link href="http://wensontsai.github.io/blog/2013/09/28/day-number-10/"/>
+		<updated>2013-09-28T16:18:00-04:00</updated>
+		<id>http://wensontsai.github.io/blog/2013/09/28/day-number-10</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>I thought it would take me the next 5 years of my life, but with a shit-ton of help and explanation, failed thought process/approaches, hipchat support, sacrifice of a saturday, housecat jealousy, pure grudgery sprinkled on top, I re-wrote the code for the pig-latin testfirst.org problem, got it to work, and also understand it.</p>
+
+<p>Arrays to strings to arrays to arrays to strings to goddamnit computer, why cant you just think the way I think, and we can be friends and share the same underpants?  You don&rsquo;t wear underpants.</p>
+
+<p>Pig-Latin is dead!!</p>
+
+<p>5 years of life has come back to me, and now I&rsquo;m thinking of skipping off to enjoy a Saturday night instead of working all the way through.  I am not a computer &ndash; just yet.</p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[grit]]></title>
+		
+		<link href="http://wensontsai.github.io/blog/2013/09/26/day-number-9/"/>
+		<updated>2013-09-26T23:01:00-04:00</updated>
+		<id>http://wensontsai.github.io/blog/2013/09/26/day-number-9</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>We wrapped up the Ruby/SQL query middle-layer build exercise today.  It was good.  Way envious of what my partner can just see, solve, and code.  While my brain pulls blanks, he&rsquo;s got gears turning, and with the gear-turning you got stuff to try.  I like trying stuff.  Running code, whether right or wrong, may be a distant cousin of slot machines.  Gimme more code for me nickel slots.</p>
+
+<p>We then got into groups to present about classes vs instances, class methods vs instance methods.  They say teaching is the best way to learn.  To teach, you got to feel like you got it under wraps.  Then to bring someone outside of yourself to understanding, well that&rsquo;s a whole nother thing.</p>
+
+<p>I believe in giving.</p>
+
+<p>Not as some tax write-off, but as a human activity we all should be involved in.  To be honest, it doesn&rsquo;t even matter what you give.  It&rsquo;s just important to reach outside of yourself, help others, be connected &ndash; there&rsquo;s a true joy in it.</p>
+
+<p>Information is definitely one of the easiest things to give.  But not necessarily one of the easiest to receive.</p>
+
+<p>I&rsquo;m feeling pretty lucky watching the teachers at Fullstack.  It turns on the lights in that teacher part of me I nurtured in Japan.  I would have stayed as late as possible or done about anything to help my students grow and understand.  Few rewards are better than being there to usher someone along and change their lives.  I get why in traditional Chinese society, teachers and intellectuals were the most respected social class.  I get why being a teacher in Japanese society pretty much means you are a public pillar of society and a parent to your students for life.</p>
+
+<p>A good teacher will inevitably change the lives of their students.</p>
+
+<p>To believe in someone when they had no faith, to shine a light where they knew not to look, a good teacher gives themselves &ndash; the student and teacher are one &ndash; their growth is your growth, their achievement, your achievement.  We all run on limited time in this life.  Time is our most precious resource.  How else can you feel but grateful for another who spends their minutes improving yours?</p>
+
+<p>I feel lucky that we are the first class at Fullstack.  I know from my own experience, I was able to give the most to the very first graduating class I taught.  Routine and the tear of putting yourself out there over and over can wear even the best.  It&rsquo;s definitely better to be Taiwan than Korea **.</p>
+
+<p>Thank you for the information and the guidance.  Thank you for your dedication, time, faith, support, and encouragement.  It is an inspiration.</p>
+
+<p>Believe you me, I will hold up my end of the deal.</p>
+
+<p>** When Japan was trying to put an empire together to compete with the &lsquo;civilized West&rsquo; (ironically out of a fear of being colonized themselves) they planned to make Taiwan their model first colony.  They pumped infrastructure into there, and although there was conflict, it&rsquo;s quite a stark contrast from when Japan tried to colonize Korea.  Taiwan still has a soft spot for Japan until this day, where as revenge on Japan has been a fire under Koreans for the past half century.</p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[are we human, or are we object]]></title>
+		
+		<link href="http://wensontsai.github.io/blog/2013/09/25/day-number-8/"/>
+		<updated>2013-09-25T21:14:00-04:00</updated>
+		<id>http://wensontsai.github.io/blog/2013/09/25/day-number-8</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>Today was pleasant.  We wrapped up the sqlite3 workshop we had begun.  I dig it, man.  Inner joins are just like crappy 80&rsquo;s arcade versions of mah-jong (ain&rsquo;t got nothing on the real tiles).  You match up pairs and they disappear.  You want the win? you match up the faces &ndash; pretty much for joins, you got to be as indirect as possible.  You match up two obviouses, just so you can get your in-obvious column.  I can appreciate the mystery and the behind-room-divider finesse.</p>
+
+<p>After we got a handle on SQL commands, we dove back into Ruby, turning each table into a class object, and columns into attributes.  We were to build the middle layer for Ruby to interact with SQL &ndash; building a helper.</p>
+
+<p>It was around then while working through some discrepancies that I came to realize how meta everything was getting.  It used to be just data, basic containers to keep that data, keys to access that data, but now we were dealing with objects.  Objects are only objects in so much as you can imagine a container in the paper of your mind.  We were beyond information you can scribble in a notebook, or wrap in neat curly braces.  Objects.  Are objects even real?  Do objects care if we feel pain?  The information, the words you had before, they&rsquo;re thrown into objects and turned into mere attributes.  Attributes of the object!  What is this &lsquo;object&rsquo;?  A blender for all things real?  How cold!  Your name, your tastes, they have meaning, personality &ndash; in a curly bracket, square bracket, parentheses, they are still themselves, just in a room.  But, in objects &ndash;  now, they were part of the machine.  Emotionless attributes now.  Accessed as so.  Mere markers, of what used to be.</p>
+
+<p>And, right then and there, I had an existential breakdown.</p>
+
+<p>Are we human, or are we object?</p>
+
+<p>I mean, I&rsquo;m just a mere instance of the human class (think human factory).  I run methods like eat, walk, love, make_babies, make_poo, ponder_the_meaning_of_life, laugh, flirt, talk_shit.  I can make_the_world_a_better_place taking arguments like giving, or caring, or I can run methods steal, or murder(with_knife) or destroy(with_emotional_abuse).  And many more pre-programmed actions.</p>
+
+<p>You ever done these online personality quizzes, or done the Myers-Briggs Type Indicator full-on with in-depth explanations regarding your tendencies, world perspective, thought processes, and intuitions?  I read one once just a few months prior that had me ALL FIGURED OUT.  Down to the most secret and fundamental of my instincts that I had put energy into developing, practice into trusting.</p>
+
+<p>It was as if I was exactly where I was supposed to be, just that I, the one it was happening to, was the only one that didn&rsquo;t know.</p>
+
+<p>I, me, whatever, exerting effort, right at the cusp of believing in progress, manuevering new directions, but everything I discovered, someone some thing already knew I would think, act, make sense this way, even as I was convinced I was doing everything of my own will and volition.  A simple text, I&rsquo;d never seen, already knew I would be trying to do so and predicted it.  It freaked me the fuck out.</p>
+
+<p>Was it feasible that our destinies and fates could be so thinly veiled?  That the train and the track could glide ever so blatantly eye-to-eye?  How could it be, that life seems so original, so real, subjectively, yet be so easily uncovered and predictable?  I felt so ordinary, so cliche, so played-out, so kitsch.  Was I human, or was I object?  And, was I this way all along?  Why didn&rsquo;t anyone tell me?</p>
+
+<p>Or,</p>
+
+<p>was I supposed to feel this way, at this very point in time, as the fates and destinies and programming purposely pre-aligned &ndash; which was first, the chicken, the egg?  Could a chicken lay the very egg it is hatching out of simultaneously, just in time to lay another egg, which contains none other than itself?  What if the eggs were not chicken eggs at all, but duck eggs, with a purple-grey dead duck baby inside, and the Vietnamese friends you were drinking with told you to spoon lime juice with black pepper/chili paste onto its face and slurp &ndash; would it taste like cajun crawfish, even though it&rsquo;s neither cajun NOR crawfish??</p>
+
+<p>How
+fucking
+predictable.</p>
+
+<p>Hello World!
+I&rsquo;d like you to meet someone:</p>
+
+<p><img src="http://img.photobucket.com/albums/v416/yelofngr/screenshot.png" title="wenson bot" alt="wenson bot" /></p>
+
+<p>ruby new_life.rb</p>
+
+<p>::::::&hellip;&hellip;.. meep bloop blop bloop meep mrop breep.</p>
+
+<p><a href="http://www.youtube.com/watch?feature=player_embedded&v=RIZdjT1472Y
+" target="_blank"><img src="http://img.youtube.com/vi/RIZdjT1472Y/0.jpg"
+alt="are we human, or are we dancer" width="480" height="360" border="0" /></a></p>
+
+<p>NoMethodError:
+  undefined method &lsquo;DANCER&rsquo; for # _Rspec::Core::ExampleGroup::Nested_2::Nested_1:0x007ffda8042938>#./spec/requests/user_pages_spec.rb:9:in &lsquo;block (3 levels) in top(required&rsquo;</p>
 ]]>
 		</content>
 	</entry>
