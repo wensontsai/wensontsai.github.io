@@ -4,7 +4,7 @@
 	<title><![CDATA[Code Journey]]></title>
 	<link href="http://wensontsai.github.io/atom.xml" rel="self"/>
 	<link href="http://wensontsai.github.io/"/>
-	<updated>2013-11-22T15:58:55-05:00</updated>
+	<updated>2013-11-23T14:20:32-05:00</updated>
 	<id>http://wensontsai.github.io/</id>
 	<author>
 		<name><![CDATA[Wenson Tsai]]></name>
@@ -12,6 +12,93 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[T minus and it's on]]></title>
+		
+		<link href="http://wensontsai.github.io/blog/2013/11/23/day-number-41/"/>
+		<updated>2013-11-23T12:33:00-05:00</updated>
+		<id>http://wensontsai.github.io/blog/2013/11/23/day-number-41</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>There is literally 2 weeks left of Fullstack Academy.  Literally.</p>
+
+<p>Thinking about it makes me bittersweet.  Even though a ton has happened, in a short amount of time &ndash; yet at the same time, it feels like it&rsquo;s been such a long time coming, a long road &ndash; man, we were just getting started, and now we gotta leave the nest.</p>
+
+<p>Two weeks.</p>
+
+<ul>
+<li>Recruitment activities commence now</li>
+<li>Start new demo project to sharpen Backbone.js skills and get heavy on the backend</li>
+<li>Wrap up pretty the Escapergram project (my idea of an alternate universe escape for picture-lovers through the day, where at any time you could take a mini-vacation and see what was going on in another part of the world.  It pulls feed from the Instagram API, mapping from the Google maps API, and uses d3.js on the landing page).</li>
+</ul>
+
+
+<p>Yesterday, while doing our Friday demos, someone had the brilliant idea to live-post pictures of me demo-ing into the feed at the Fullstack latitude and longitude (within 5000 meter radius).  It&rsquo;d been a slow-brain day &ndash; I was just talking through the work I had added, but this shook me awake.  Interacting with the crowd is a must &ndash; that&rsquo;s where the fun is.</p>
+
+<p>Waiting and manually refreshing the page, some photos might a slipped through (sadness).  But as a result, now Escapergrams got AJAX auto-refresh (every 10 secs).  Escape into the now to your heart&rsquo;s content, people!</p>
+
+<p><a href="http://escapergram.herokuapp.com">escaperGRAM</a></p>
+
+<p><img src="http://wensontsai.github.io/images" title="live-demo" alt="live-demo"></p>
+
+<p><img src="http://wensontsai.github.io/images" title="escapergrammm" alt="escapergrammm"></p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[hackworld]]></title>
+		
+		<link href="http://wensontsai.github.io/blog/2013/11/23/day-number-40/"/>
+		<updated>2013-11-23T10:46:00-05:00</updated>
+		<id>http://wensontsai.github.io/blog/2013/11/23/day-number-40</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>The New York Times Hackathon was a great experience.  I&rsquo;m super glad I went.  Just 2 days prior, I was about to not go, but David posed the question &ndash; &ldquo;What&rsquo;s your excuse?&rdquo;</p>
+
+<p>&ldquo;Err, I don&rsquo;t have a team,&rdquo; I replied.</p>
+
+<p>&ldquo;Make one.&rdquo;</p>
+
+<p>Off to work &ndash; I committed myself to figuring out an idea before lunchtime that day.  After flipping through the sponsor API&rsquo;s, I hit on something fun.  What if we could use the NY Public Library&rsquo;s (sponsor) <a href="http://menus.nypl.org/">Menu API</a> with another API to find places to eat obscure dishes from the 1800&rsquo;s?  Fortunately, this was received well by other students looking to participate, and there you go, I had a team.</p>
+
+<p>The morning of, me and <a href="http://hjbuchanan.github.io/">Hanj</a> were the first people there.  After getting in, then averting a near catastrophe (a team-member forgot his laptop at a bar the night before, possibly losing his entire capstone project), Rob, Eric, Jules, and I got to work on putting together the Menu app.  As per discussions the night before, Jules (veteran hackathon champ) recommended we simply use d3 to graph out the most popular items over decades (we were doing this compromise because there wouldn&rsquo;t be enough time for my original idea I assumed).</p>
+
+<p>A strange thing happend around 3pm, just 5 hours before we were to decide whether we would demo or not.  We found that Jules&#8217; idea to data visualize was already a feature on the NYPL Menu site, AND it looked good hahaha.  Again I suggested we try my original idea.  It was at this point that both Jules and Hanj admitted, they didn&rsquo;t realize that was what I was going for, and that having an app to find places to eat popular dishes from the 1800&rsquo;s is &lsquo;an even better more fun idea!&rsquo;  To quote from fellow student/fashion hawk <a href="http://istevenson.github.io/">Imon</a> &ndash; &ldquo;Well, DUHHHHHHHHH HH H.. .&rdquo;  Where these cats been??</p>
+
+<p>Just like that, we reorganized and went back into our rabbit holes.  Around 7pm, Rob had figured out timeline.js, and my map functionalities came in for a landing in Eric&rsquo;s frontend and Jules&#8217; backend.</p>
+
+<p>Then we presented.  And we watched other people present.  Our fellow Fullstackers (we ended having 3 separate teams) took the People&rsquo;s Choice Award with their &ldquo;Right-wingify the NY Times&rdquo; hack, that got people in the crowd so worked up I saw people crying from laughter.</p>
+
+<p>That Brookyln Lager around 10pm never tasted so good.</p>
+
+<p>Lessons learned:  Being my first hackathon experience, I wasn&rsquo;t sure what to expect, but observing, participating, and achieving goals, I felt that all the projects that day were within our capabilities.  In fact, if I may say so (and I realize this is me saying so about our own project), our Menu app was within the top 87th percentile of interesting works.  And, that was with burning half the day just trying to find our direction!</p>
+
+<p>All in all, I recommend if you have a chance, to attend hackathons, generate ideas, see them come to life, meet some people, eat some food, and most importantly, get a handle on some swaggggg</p>
+
+<p><img src="http://wensontsai.github.io/images" title="swaggggg" alt="swaggggg"></p>
+
+<p><img src="https://gs1.wac.edgecastcdn.net/8019B6/data.tumblr.com/4cfd608cbaca71f4b1b043ac8fde47e2/tumblr_mwef97PbDQ1ryra09o2_1280.jpg" title="early view" alt="early view" /></p>
+
+<p><img src="https://gs1.wac.edgecastcdn.net/8019B6/data.tumblr.com/7d02addc16ab240d50d87e87a19bae42/tumblr_mwef97PbDQ1ryra09o3_1280.jpg" title="off to races" alt="off to races" /></p>
+
+<p><img src="https://gs1.wac.edgecastcdn.net/8019B6/data.tumblr.com/df7ff91cf714c123d7081e0188ad4a49/tumblr_mwef97PbDQ1ryra09o4_1280.jpgg" title="right-wingify ruling things" alt="right-wingify ruling things" /></p>
+
+<p><img src="https://gs1.wac.edgecastcdn.net/8019B6/data.tumblr.com/f4878bd383ec76a3045ae3b27830a2ba/tumblr_mwef97PbDQ1ryra09o5_1280.jpg" title="team yes" alt="team yes" /></p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -472,106 +559,6 @@ description:  gum drops and jelly breams!<br><br></p>
 <p>Pig-Latin is dead!!</p>
 
 <p>5 years of life has come back to me, and now I&rsquo;m thinking of skipping off to enjoy a Saturday night instead of working all the way through.  I am not a computer &ndash; just yet.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[grit]]></title>
-		
-		<link href="http://wensontsai.github.io/blog/2013/09/26/day-number-9/"/>
-		<updated>2013-09-26T23:01:00-04:00</updated>
-		<id>http://wensontsai.github.io/blog/2013/09/26/day-number-9</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>We wrapped up the Ruby/SQL query middle-layer build exercise today.  It was good.  Way envious of what my partner can just see, solve, and code.  While my brain pulls blanks, he&rsquo;s got gears turning, and with the gear-turning you got stuff to try.  I like trying stuff.  Running code, whether right or wrong, may be a distant cousin of slot machines.  Gimme more code for me nickel slots.</p>
-
-<p>We then got into groups to present about classes vs instances, class methods vs instance methods.  They say teaching is the best way to learn.  To teach, you got to feel like you got it under wraps.  Then to bring someone outside of yourself to understanding, well that&rsquo;s a whole nother thing.</p>
-
-<p>I believe in giving.</p>
-
-<p>Not as some tax write-off, but as a human activity we all should be involved in.  To be honest, it doesn&rsquo;t even matter what you give.  It&rsquo;s just important to reach outside of yourself, help others, be connected &ndash; there&rsquo;s a true joy in it.</p>
-
-<p>Information is definitely one of the easiest things to give.  But not necessarily one of the easiest to receive.</p>
-
-<p>I&rsquo;m feeling pretty lucky watching the teachers at Fullstack.  It turns on the lights in that teacher part of me I nurtured in Japan.  I would have stayed as late as possible or done about anything to help my students grow and understand.  Few rewards are better than being there to usher someone along and change their lives.  I get why in traditional Chinese society, teachers and intellectuals were the most respected social class.  I get why being a teacher in Japanese society pretty much means you are a public pillar of society and a parent to your students for life.</p>
-
-<p>A good teacher will inevitably change the lives of their students.</p>
-
-<p>To believe in someone when they had no faith, to shine a light where they knew not to look, a good teacher gives themselves &ndash; the student and teacher are one &ndash; their growth is your growth, their achievement, your achievement.  We all run on limited time in this life.  Time is our most precious resource.  How else can you feel but grateful for another who spends their minutes improving yours?</p>
-
-<p>I feel lucky that we are the first class at Fullstack.  I know from my own experience, I was able to give the most to the very first graduating class I taught.  Routine and the tear of putting yourself out there over and over can wear even the best.  It&rsquo;s definitely better to be Taiwan than Korea **.</p>
-
-<p>Thank you for the information and the guidance.  Thank you for your dedication, time, faith, support, and encouragement.  It is an inspiration.</p>
-
-<p>Believe you me, I will hold up my end of the deal.</p>
-
-<p>** When Japan was trying to put an empire together to compete with the &lsquo;civilized West&rsquo; (ironically out of a fear of being colonized themselves) they planned to make Taiwan their model first colony.  They pumped infrastructure into there, and although there was conflict, it&rsquo;s quite a stark contrast from when Japan tried to colonize Korea.  Taiwan still has a soft spot for Japan until this day, where as revenge on Japan has been a fire under Koreans for the past half century.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[are we human, or are we object]]></title>
-		
-		<link href="http://wensontsai.github.io/blog/2013/09/25/day-number-8/"/>
-		<updated>2013-09-25T21:14:00-04:00</updated>
-		<id>http://wensontsai.github.io/blog/2013/09/25/day-number-8</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>Today was pleasant.  We wrapped up the sqlite3 workshop we had begun.  I dig it, man.  Inner joins are just like crappy 80&rsquo;s arcade versions of mah-jong (ain&rsquo;t got nothing on the real tiles).  You match up pairs and they disappear.  You want the win? you match up the faces &ndash; pretty much for joins, you got to be as indirect as possible.  You match up two obviouses, just so you can get your in-obvious column.  I can appreciate the mystery and the behind-room-divider finesse.</p>
-
-<p>After we got a handle on SQL commands, we dove back into Ruby, turning each table into a class object, and columns into attributes.  We were to build the middle layer for Ruby to interact with SQL &ndash; building a helper.</p>
-
-<p>It was around then while working through some discrepancies that I came to realize how meta everything was getting.  It used to be just data, basic containers to keep that data, keys to access that data, but now we were dealing with objects.  Objects are only objects in so much as you can imagine a container in the paper of your mind.  We were beyond information you can scribble in a notebook, or wrap in neat curly braces.  Objects.  Are objects even real?  Do objects care if we feel pain?  The information, the words you had before, they&rsquo;re thrown into objects and turned into mere attributes.  Attributes of the object!  What is this &lsquo;object&rsquo;?  A blender for all things real?  How cold!  Your name, your tastes, they have meaning, personality &ndash; in a curly bracket, square bracket, parentheses, they are still themselves, just in a room.  But, in objects &ndash;  now, they were part of the machine.  Emotionless attributes now.  Accessed as so.  Mere markers, of what used to be.</p>
-
-<p>And, right then and there, I had an existential breakdown.</p>
-
-<p>Are we human, or are we object?</p>
-
-<p>I mean, I&rsquo;m just a mere instance of the human class (think human factory).  I run methods like eat, walk, love, make_babies, make_poo, ponder_the_meaning_of_life, laugh, flirt, talk_shit.  I can make_the_world_a_better_place taking arguments like giving, or caring, or I can run methods steal, or murder(with_knife) or destroy(with_emotional_abuse).  And many more pre-programmed actions.</p>
-
-<p>You ever done these online personality quizzes, or done the Myers-Briggs Type Indicator full-on with in-depth explanations regarding your tendencies, world perspective, thought processes, and intuitions?  I read one once just a few months prior that had me ALL FIGURED OUT.  Down to the most secret and fundamental of my instincts that I had put energy into developing, practice into trusting.</p>
-
-<p>It was as if I was exactly where I was supposed to be, just that I, the one it was happening to, was the only one that didn&rsquo;t know.</p>
-
-<p>I, me, whatever, exerting effort, right at the cusp of believing in progress, manuevering new directions, but everything I discovered, someone some thing already knew I would think, act, make sense this way, even as I was convinced I was doing everything of my own will and volition.  A simple text, I&rsquo;d never seen, already knew I would be trying to do so and predicted it.  It freaked me the fuck out.</p>
-
-<p>Was it feasible that our destinies and fates could be so thinly veiled?  That the train and the track could glide ever so blatantly eye-to-eye?  How could it be, that life seems so original, so real, subjectively, yet be so easily uncovered and predictable?  I felt so ordinary, so cliche, so played-out, so kitsch.  Was I human, or was I object?  And, was I this way all along?  Why didn&rsquo;t anyone tell me?</p>
-
-<p>Or,</p>
-
-<p>was I supposed to feel this way, at this very point in time, as the fates and destinies and programming purposely pre-aligned &ndash; which was first, the chicken, the egg?  Could a chicken lay the very egg it is hatching out of simultaneously, just in time to lay another egg, which contains none other than itself?  What if the eggs were not chicken eggs at all, but duck eggs, with a purple-grey dead duck baby inside, and the Vietnamese friends you were drinking with told you to spoon lime juice with black pepper/chili paste onto its face and slurp &ndash; would it taste like cajun crawfish, even though it&rsquo;s neither cajun NOR crawfish??</p>
-
-<p>How
-fucking
-predictable.</p>
-
-<p>Hello World!
-I&rsquo;d like you to meet someone:</p>
-
-<p><img src="http://img.photobucket.com/albums/v416/yelofngr/screenshot.png" title="wenson bot" alt="wenson bot" /></p>
-
-<p>ruby new_life.rb</p>
-
-<p>::::::&hellip;&hellip;.. meep bloop blop bloop meep mrop breep.</p>
-
-<p><a href="http://www.youtube.com/watch?feature=player_embedded&v=RIZdjT1472Y
-" target="_blank"><img src="http://img.youtube.com/vi/RIZdjT1472Y/0.jpg"
-alt="are we human, or are we dancer" width="480" height="360" border="0" /></a></p>
-
-<p>NoMethodError:
-  undefined method &lsquo;DANCER&rsquo; for # _Rspec::Core::ExampleGroup::Nested_2::Nested_1:0x007ffda8042938>#./spec/requests/user_pages_spec.rb:9:in &lsquo;block (3 levels) in top(required&rsquo;</p>
 ]]>
 		</content>
 	</entry>
