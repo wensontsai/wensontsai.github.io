@@ -188,6 +188,11 @@
 
 
 /* custom */
+.details{
+	padding: 0px 10px 0px 10px;
+	font-size: .65em;
+}
+
 #bumbify{
 	font-weight: 400;
 	font-size: 1.5em;
@@ -716,7 +721,7 @@
 			ul.icons-grid li {
 				display: block;
 				float: left;
-				padding: 3em 0;
+				/*padding: 3em 0;*/
 				width: 50%;
 			}
 
