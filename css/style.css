@@ -721,8 +721,9 @@
 			ul.icons-grid li {
 				display: block;
 				float: left;
-				/*padding: 3em 0;*/
+				padding: 3em 0;
 				width: 50%;
+				margin-top: -3em;
 			}
 
 				ul.icons-grid li h3 {
