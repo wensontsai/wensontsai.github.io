@@ -185,6 +185,19 @@
 		text-align: right;
 	}
 
+
+/* custom */
+#bumbify{
+	font-family: 'Codystar', cursive;
+}
+
+#bosco_logo{
+	width: 60%;
+}
+
+
+
+
 /* Loader */
 	@-moz-keyframes spinner-show { 0% { opacity: 0; } 100% { opacity: 1; } }
 	@-webkit-keyframes spinner-show { 0% { opacity: 0; } 100% { opacity: 1; } }
