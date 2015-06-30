@@ -2,7 +2,7 @@
 @import 'mixins';
 @import 'font-awesome.min.css';
 @import url('http://fonts.googleapis.com/css?family=Raleway:400,400italic,700,800');
-
+@import url('http://fonts.googleapis.com/css?family=Codystar);
 /*
 	Highlights by HTML5 UP
 	html5up.net | @n33co
@@ -185,7 +185,7 @@ $size-padding-lr: 2.5em;
 
 /* custom */
 #bumbify{
-	font-family: Codystar;
+	font-family: 'Codystar', cursive;;
 }
 
 /* Loader */
